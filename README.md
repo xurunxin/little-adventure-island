@@ -43,6 +43,7 @@ npm ci
 npm run dev -- --host 127.0.0.1 --port 4173
 # 在另一个终端运行检查和构建
 npm test
+npm run build
 npm run test:sites
 npm run android:sync
 ./android/gradlew.bat -p android assemblePersonalDebug
