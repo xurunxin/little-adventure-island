@@ -1,0 +1,18 @@
+Mode: built-in image_gen
+Source file: generated-images/01a11bac-4c21-7351-80db-45c0b101f5fb/exec-c0362d4f-8c81-48af-8dda-f2b3a3b01535.png
+Reference files: public/assets/tasks/tidy-shoes.png; public/assets/tasks/books.png
+Destination: public/assets/tasks/napkins.png
+Transparent background: false
+Generated result: 1254 x 1254 RGB.
+Asset processing: resized to 640 x 640 with Pillow LANCZOS; no semantic edits; fully opaque RGB.
+
+Final prompt:
+Use case: illustration-story
+Asset type: opaque square task-card illustration for a preschool children's task app: setting out napkins.
+Input image 1: public/assets/tasks/tidy-shoes.png is the exact brown-haired preschool boy identity and clothing reference. Input image 2: public/assets/tasks/books.png is the established dimensional children's picture-book style reference.
+Primary request: the same adorable brown-haired 4-and-a-half-year-old boy in a yellow-and-cream striped T-shirt and blue trousers, standing beside a cozy family dining table. He is placing a neatly folded small mint-green cloth napkin at one of THREE dining places, using both hands. The other two dining places already each have one neatly folded napkin. His smile and gaze point toward the napkin he is setting down.
+Scene: warm cream-colored family dining area with a low simple honey-wood dining table, exactly three clearly separated places arranged around the table, each with a plain empty pale ceramic plate. Napkins beside the plates remain prominent. No food, no hot dishes, no knives, no sharp utensils. Soft plants and warm daylight in the background.
+Composition: 640x640 square full-bleed illustration, slightly elevated three-quarter camera so all three place settings, the three napkins and the boy's placing gesture are plainly visible. Keep boy's head and both hands complete. The task action and table are large in frame.
+Style: match the exact rosy-cheeked rounded brown-haired child, large friendly dark eyes, soft dimensional children's storybook rendering, subtle fabric textures, creamy home colors and warm gentle sunlight.
+Constraints: opaque filled background, one child, exactly three dining places; no text, letters, numbers, UI, borders, frame or watermark.
+

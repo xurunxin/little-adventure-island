@@ -1,0 +1,20 @@
+Built-in image_gen generated transparent production open-book asset.
+Reference: design/selected-home.png
+Source: generated-images/01a11bac-1388-7d50-97ab-60662472cc6c/exec-fad3428c-d3ef-4b91-937c-1385de2a106c.png
+Destination: public/assets/storybook.png
+Requested layout: 1280x840 landscape
+Actual native dimensions: 1548x1016 (copied without resampling)
+Alpha verification: Format32bppArgb, corner alpha 0, centre alpha 253. True transparency preserved.
+Visual QA: Front-facing wide open book, cream completely blank interior, soft green cover, pale golden stacked page edges, slight centre gutter; no cards, drawings, labels, buttons or text. Matches selected reference's warm painted material. Soft generated fringe along green outer edges remains.
+
+Final prompt:
+Use case: illustration-story
+Asset type: transparent raster background plate for a large task-book UI in a children's Android app.
+Input images: Image 1 is the selected style and book-construction reference. Copy its soft cream open-book craftsmanship only; ignore every illustration and UI element.
+Primary request: Generate ONE wide horizontal large-format OPEN STORYBOOK, target 1280x840, completely isolated on TRUE TRANSPARENT background. The open book should nearly fill the canvas with a little margin for its shadow.
+Subject: The frontal open book from the selected reference: soft warm ivory and cream blank paper, gently curved thick pages, pale golden page edges, a subtle light-green cover and spine visible along the outside rim. Slight softly raised centre gutter that suggests two open pages. A few real stacked paper layers visible at the upper and lower edges.
+Style/medium: Same warm dimensional hand-painted children's picture-book finish as reference, tactile soft paper, rounded friendly construction, gentle painterly texture.
+Composition/framing: Front-facing, straight, level, horizontal wide book, no rotation, no strong perspective, two halves together form a spacious clean spread. Page interior maximally broad, calm and clear, leaving room for THREE task-card UI columns to be placed later in React across the book. The centre gutter should be slight, visually gentle and no more than 4 percent of overall width.
+Lighting/mood: Soft warm daylight, delicate shadows in gutter and paper layers, cream page interiors.
+Constraints: ALL BOOK PAGES COMPLETELY BLANK. No characters, humans, animals, pictures, task illustrations, frames, card outlines, buttons, numbers, text, letters, glyphs, decorations, stars, stickers, labels or icons. No title board. No environment or colored backdrop. One clean book only, true alpha transparency around outer silhouette. No watermark. Do not render checkerboard as pixels.
+

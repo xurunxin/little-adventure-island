@@ -1,0 +1,20 @@
+Built-in image_gen generated family park picnic reward illustration.
+Reference: design/selected-home.png
+Source: generated-images/01a11bac-1388-7d50-97ab-60662472cc6c/exec-73663bb1-a937-4cc3-a541-8df241bd7cbb.png
+Destination: public/assets/rewards/picnic.png
+Requested layout: 640x640 square
+Actual native dimensions: 1254x1254 (copied without resampling)
+Opacity verification: corner alpha 255, opaque picnic park scene.
+Visual QA: Same yellow-striped boy and parents seated on cream-peach checked picnic blanket in green sunny park. Basket, fruit, bread snacks visible foreground; three people smiling. Dimensional hand-painted warmth, no text, card frame or UI.
+
+Final prompt:
+Use case: illustration-story
+Asset type: square family picnic reward illustration for a preschool children's storybook app, target 640x640.
+Input images: Image 1 is selected art and character reference. Match the same cheerful brown-haired four-and-a-half-year-old boy with yellow-and-white striped shirt and blue trousers, brown-haired mother in pink sweater and friendly father in aqua sweater.
+Primary request: ONE square illustration of a family picnic in a warm sunny park. In foreground, a soft cream-and-peach checkered picnic blanket lies on green grass, with a rounded woven picnic basket, apples, orange slices and small simple bread snacks on plates. Behind the foreground food, the boy and both parents sit on the blanket smiling together. Exactly three people. Family stays slightly secondary to clear inviting picnic props.
+Scene/backdrop: lush friendly park, rounded soft trees, small flowers and sunny sky gently blurred. Calm cosy family outing.
+Style/medium: matching warm dimensional children's picture-book illustration, softly hand-painted textures, rounded friendly forms and faces, pastel cream, peach, spring green and aqua colors, soft tactile basket and fabric.
+Composition/framing: square medium-wide scene, picnic blanket and basket/fruit prominent lower half, family visible upper-middle half, all faces inside frame, uncluttered and easy to identify as a picnic.
+Lighting/mood: sunny gentle daytime, cheerful caring family time.
+Constraints: no text, readable words, letters, numbers, labels, UI, buttons, counters, card frame, speech bubbles, logos or watermark. No animal companions. No commercial food packaging.
+

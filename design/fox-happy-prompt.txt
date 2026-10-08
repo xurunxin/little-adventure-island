@@ -1,0 +1,17 @@
+Mode: built-in image_gen
+Source file: generated-images/01a11bac-4c21-7351-80db-45c0b101f5fb/exec-0964dada-ab6e-4f00-b836-f2e36424cb75.png
+Edit reference: public/assets/pets/fox.png
+Destination: public/assets/pets/fox-happy.png
+Transparent background: true
+Result: 1161 x 1355 RGBA; original generated alpha preserved.
+
+Final prompt:
+Use case: precise-object-edit
+Asset type: transparent happy-state fox companion for a preschool Android tablet app.
+Input image: public/assets/pets/fox.png is the edit target and character identity reference.
+Primary request: change only the fox's expression to an exuberant celebration: both eyes curved into cheerful closed-eye smiles, an open mouth with a joyful laugh, and gently raise only one front paw near its cheek in celebration. Keep its sitting pose.
+Invariants: preserve the exact orange fox identity, head-to-body proportions, full-body framing, overall character size on the portrait canvas, warm soft fluffy fur and dimensional picture-book style. Preserve dark brown ear tips, cream inner ears, cream muzzle and cheeks, cream chest, dark brown paws, forehead tuft, small nose, and complete orange tail with cream-white tip extending to its right. Preserve the mint-green scarf with white leaf patterns, knot and scarf end.
+Composition: one complete fox on a portrait canvas matching the 1161x1355 reference aspect ratio and framing, ears, feet and tail entirely visible.
+Background: genuinely transparent alpha. No ground, no ground shadow, no scenery, no props, no confetti, no UI, no text, no speech bubble, no watermark.
+Constraints: one independent character, no sprite sheet, no duplicates. Change only the specified facial expression and single front paw gesture; everything else unchanged.
+

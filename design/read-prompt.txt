@@ -1,0 +1,19 @@
+Built-in image_gen generated parent-child reading task illustration.
+Reference: design/selected-home.png (third task illustration)
+Source: generated-images/01a11bac-1388-7d50-97ab-60662472cc6c/exec-45de3827-6ec6-4c9c-bdbb-b222d8718459.png
+Destination: public/assets/tasks/read.png
+Requested layout: 640x640 square
+Actual native dimensions: 1254x1254 (copied without resampling)
+Visual QA: Same brown-haired preschool boy in yellow stripes and warm pink-sweater mother share open picture book in sunny cream reading nook. Faces and action clear. No readable book text, UI, task frame, captions or buttons.
+
+Final prompt:
+Use case: illustration-story
+Asset type: square task illustration for a preschool child's offline Android task app, target 640x640.
+Input images: Image 1 is selected visual and character style reference. Closely match its THIRD task illustration: the warm caring mother and the same smiling young brown-haired boy with big dark eyes, rosy cheeks and yellow-and-white striped shirt.
+Primary request: ONE square illustration showing a mother and her 4-and-a-half-year-old son sitting closely together and reading one open colorful picture book. Make the shared-reading action immediately obvious to a young child: both characters look at the wide-open book, mother holds it while child helps turn a page. The book is visible at lower centre, with simple forest and animal pictures but NO readable text.
+Scene/backdrop: cozy calm reading nook, soft cream indoor background, blurred small shelf and cushion, gentle daylight. Keep background secondary and uncluttered.
+Style/medium: Match the selected reference's sophisticated dimensional children's storybook illustration, soft hand-painted textures, rounded friendly faces, warm cream, light aqua and peach colors, tactile paper book.
+Composition/framing: square crop, waist-up mother and child filling most of frame, mother slightly right behind child, book across bottom centre, enough margin for faces and hands. No task card frame. No outer decorative border.
+Lighting/mood: welcoming sunny morning, tender and happy, soft shadows.
+Constraints: illustration only. No UI, card outlines, text, letters, glyphs, numbers, labels, counters, buttons, speech bubbles, logos or watermarks. No fox or other animal companion. No readable text on book.
+

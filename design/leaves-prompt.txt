@@ -1,0 +1,18 @@
+Built-in image_gen generated transparent foreground three-leaf sprig.
+Reference: design/selected-home.png
+Source: generated-images/01a11bac-1388-7d50-97ab-60662472cc6c/exec-ad313a21-cfa1-4bc3-b6b5-f33d2a9d0f92.png
+Destination: public/assets/leaves.png
+Native source: 1254x1254 RGBA
+Final asset: 512x512 RGBA, high-quality bicubic resize preserving alpha via System.Drawing as explicitly requested.
+Visual QA: Exactly three rounded green leaves on a short curved light-brown branch entering upper-right and reaching down-left. Soft dimensional painted texture and veins match tree-house foliage. Full silhouette with transparency. No text, UI, flowers or backdrop.
+
+Final prompt:
+Use case: illustration-story
+Asset type: transparent gently-swaying foreground foliage sprite for a preschool storybook adventure-island app, final asset 512x512.
+Input images: Image 1 is selected warm dimensional storybook style reference. Match the soft rounded foliage growing beside and over the right-side tree house, retaining the same fresh yellow-green and deeper green palette.
+Primary request: ONE small airy sprig of softly rounded green leaves, isolated on TRUE TRANSPARENT background. Exactly THREE leaves on a short slim curved light-brown branch: one large bright yellow-green rounded oval leaf, one medium spring-green rounded oval leaf, one small deeper-green rounded leaf. Soft tactile painterly leaf texture with gentle embossed veins, rounded tips, no flowers or fruit. The branch enters from the upper-right and extends diagonally down-left, so the sprig can overlay and lightly sway in the screen's upper-right corner.
+Style/medium: warm dimensional children's picture-book illustration, hand-painted soft brush texture, gentle volume and highlights, friendly natural rounded shapes, consistent selected island foliage.
+Composition/framing: square sprite canvas, whole leafy sprig visible inside frame with transparent margins, airy diagonal arrangement, leaves have enough separation to read clearly, natural gentle depth.
+Lighting/mood: soft warm sunny daylight, calm inviting garden foliage.
+Constraints: exactly three leaves and one short branch. No text, symbols, letters, numbers, face, animals, flowers, pots, scenery, frame, UI, buttons, logos or watermark. TRUE alpha transparency around sprig, no solid background or checkerboard pixels.
+

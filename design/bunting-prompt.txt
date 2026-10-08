@@ -1,0 +1,18 @@
+Built-in image_gen generated transparent garden bunting growth-decoration sprite.
+Reference: design/selected-home.png
+Source: generated-images/01a11bac-1388-7d50-97ab-60662472cc6c/exec-4cbbe92e-43f7-4e64-a394-457012039adc.png
+Destination: public/assets/decor/bunting.png
+Native source: 1254x1254 RGBA
+Final asset: 512x512 RGBA, high-quality bicubic resize preserving alpha via System.Drawing as explicitly requested.
+Visual QA: Two rounded wooden poles with small bases hold a gently sagging rope with exactly four rounded triangular red, yellow, blue and green flags. Soft stitched cloth and brushed-wood picture-book texture. No text, UI or backdrop. True transparency outside sprite.
+
+Final prompt:
+Use case: illustration-story
+Asset type: transparent growth-decoration sprite for a preschool storybook adventure-island app, final asset 512x512.
+Input images: Image 1 is selected art reference. Match its warm dimensional soft hand-painted wood and cheerful gentle garden colors.
+Primary request: ONE little garden bunting decoration isolated centrally on TRUE TRANSPARENT background. Two short rounded light-wood poles support one gently sagging string of FOUR rounded triangular cloth flags, coloured warm red, buttery yellow, sky blue and soft green in that order. Each pole has a smooth rounded cap and a small wooden foot base, so the complete decoration looks like a portable garden toy decoration. Flags have soft curved edges and are gently plump, not sharp. No grass mound or background.
+Style/medium: warm dimensional children's storybook illustration, subtle hand-painted brushed wood and tactile fabric, soft cream highlights, rounded child-friendly silhouettes, cheerful pastel palette.
+Composition/framing: square sprite canvas, frontal level view with mild depth, string spans horizontally upper-middle, poles standing either side, full decoration visible with equal clear transparent margins. Wide compact silhouette, no extreme perspective.
+Lighting/mood: soft sunny daylight, playful calm garden celebration.
+Constraints: exactly two short wooden poles, one string, four triangular flags. No lettering, symbols, icons, numbers, text, UI, buttons, card frames, animals, people, additional decor, scene, lawn platform, logos or watermark. TRUE alpha transparency outside decoration, no solid backdrop, ground or checkerboard pixels.
+

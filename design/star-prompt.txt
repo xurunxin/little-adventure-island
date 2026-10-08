@@ -1,0 +1,18 @@
+Built-in image_gen generated transparent golden points star and particle texture.
+Reference: design/selected-home.png (points star)
+Source: generated-images/01a11bac-1388-7d50-97ab-60662472cc6c/exec-58511784-829f-47ec-a813-17cc9c131510.png
+Destination: public/assets/star.png
+Requested layout: 512x512 square
+Actual native dimensions: 1254x1254 (copied without resampling)
+Alpha verification: Format32bppArgb, corner alpha 0, centre alpha 253. Native transparency and painted softness preserved.
+Visual QA: One upright rounded five-point golden-yellow star, soft painted volume and highlight. No face, text, UI or bottom panel. Simple readable silhouette suitable for points and celebration particles.
+
+Final prompt:
+Use case: illustration-story
+Asset type: transparent raster points star icon and Pixi particle texture for a children's storybook app, target 512x512.
+Input images: Image 1 is selected art reference. Match its golden star beside the points counter, retaining its warm soft dimensional storybook shape.
+Primary request: ONE rounded golden-yellow FIVE-POINT STAR, isolated centrally on TRUE TRANSPARENT background. Friendly soft puffed volume with smoothly rounded tips, warm golden edge, lighter buttery-yellow centre, delicate painted highlight along upper-left edge and subtle depth. The star has absolutely no face.
+Style/medium: soft hand-painted children's picture-book material, gently dimensional but simple and readable, warm yellow-gold palette consistent with reference. Clean symmetrical five-point silhouette that remains clear as a tiny particle.
+Composition/framing: square canvas, upright top point, front-facing, star fills around 70 percent of canvas, equal transparent margins, single star only.
+Constraints: No eyes, mouth, cheeks, face, text, letters, numbers, glyphs, labels, sparkle companions, rays, scene, UI, counter, button panel, circle or card frame. No logos or watermark. TRUE alpha transparency all around star, no white or colored background, no checkerboard pixels.
+

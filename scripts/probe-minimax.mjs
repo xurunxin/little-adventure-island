@@ -1,0 +1,8 @@
+import {readFile,writeFile,mkdir} from 'node:fs/promises';
+const key=process.env.MINIMAX_CN_API_KEY;if(!key)throw new Error('Missing environment key');
+await mkdir('evidence/private',{recursive:true});
+const report={};
+async function request(path,body,headers={}){const result=await fetch(`https://api.minimax.cn/v1/${path}`,{method:'POST',headers:{Authorization:`Bearer ${key}`,...headers},body,signal:AbortSignal.timeout(60000)});const data=await result.json();if(!result.ok||data.base_resp?.status_code)throw new Error(`Provider ${result.status}, code ${data.base_resp?.status_code||'unknown'}`);return data;}
+try {const audio=await readFile('evidence/tts-sample.mp3');const form=new FormData();form.set('model','asr-1.0');form.set('response_format','json');form.set('file',new Blob([audio],{type:'audio/mp3'}),'sample.mp3');const data=await request('speech_to_text',form,{language:'zh'});report.asr={passed:typeof data.text==='string'&&data.text.includes('图片'),text:data.text,duration:data.duration,traceId:data.trace_id};}catch(error){report.asr={passed:false,error:error.message};}
+try {const data=await request('text/chatcompletion_v2',JSON.stringify({model:'MiniMax-M3',messages:[{role:'system',content:'只回复一句适合四岁孩子的温和鼓励。不要提积分数量。'},{role:'user',content:'我把玩具收好啦。'}],stream:false,max_completion_tokens:1024}),{'Content-Type':'application/json'});const content=data.choices?.[0]?.message?.content;report.llm={passed:typeof content==='string',text:content};}catch(error){report.llm={passed:false,error:error.message};}
+await writeFile('evidence/minimax-probe.json',JSON.stringify(report,null,2));console.log(JSON.stringify(report));

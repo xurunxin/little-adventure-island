@@ -1,0 +1,9 @@
+Built-in image_gen generation, transparent_background=true. Reference: app/design/selected-home.png (fox scarf).
+Original output: generated-images/01a11bac-8207-7d53-a6a1-52492543fd48/exec-9c01abe5-d2af-4b36-8959-8e7ac78487c9.png
+Final asset: app/public/assets/decor/scarf.png (512 x 512; high-quality bicubic size normalization, alpha preserved; no crop)
+
+Use case: stylized-concept
+Asset type: standalone transparent wardrobe decoration icon for a preschool Android app, final 512 by 512 pixels.
+Input image: selected-home.png is style and item design reference only. Specifically match the mint-green neck scarf worn by the orange fox on the right, with its soft folded triangular bandana shape. Do not reproduce the fox or app interface.
+Primary request: one soft mint-green small triangular neck scarf / bandana with a simple pale leaf-shaped pin on the front. Show only the scarf, as if ready to wear around a small animal companion's neck, gently curved front fold, short tied ends on the right, soft fabric creases and warm pale creamy highlights. Friendly rounded proportions, soft hand-painted tactile fabric, dimensional children's picture-book rendering exactly like the reference fox's scarf. Center the entire scarf with generous clear margin and no cropping; front three-quarter view, easy recognizable silhouette.
+Constraints: genuinely transparent background with preserved alpha, scarf alone, no animal, no neck, no mannequin, no floor, no scene, no card frame, no border, no text, no labels, no buttons, no UI, no stars or collage. Do not include a checkerboard pattern in the pixels.

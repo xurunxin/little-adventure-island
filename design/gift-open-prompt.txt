@@ -1,0 +1,18 @@
+Built-in image_gen generated transparent opened gift redemption celebration artwork.
+Reference: design/selected-home.png
+Source: generated-images/01a11bac-1388-7d50-97ab-60662472cc6c/exec-3e697eb9-a862-49b4-baa8-a4a9a3fe2381.png
+Destination: public/assets/gift-open.png
+Native source: 1254x1254 RGBA
+Final asset: 768x768 RGBA, high-quality bicubic resize preserving alpha via System.Drawing as explicitly requested.
+Visual QA: Open rounded golden gift box with red ribbon and bow lid floating above, one cream blank curled reward ticket, small gold stars and luminous sparkles. No text, UI or characters. Dimensional hand-painted texture consistent with selected reference. True transparency outside objects.
+
+Final prompt:
+Use case: illustration-story
+Asset type: transparent square reward-redemption celebration artwork for a preschool children's storybook Android app, final asset 768x768.
+Input images: Image 1 is the selected style reference. Match the warm dimensional soft-painted style and the golden gift/red ribbon in its reward navigation icon.
+Primary request: ONE open rounded golden-yellow gift box with warm red ribbon, isolated centrally on TRUE TRANSPARENT background. Its lid is lifted and tilted above/behind the box with a plump red bow. From the open box, one large soft cream BLANK reward ticket unfurls upward with a gentle curve, clearly visible and completely empty. A few small golden five-point stars and warm luminous sparkles float near the open box, giving a cheerful gentle reveal. The box, lid, ribbon and paper ticket must all feel tactile and softly rounded.
+Style/medium: warm dimensional children's storybook illustration, soft hand-painted texture, golden buttery-yellow box, coral-red ribbon, cream paper, delicate highlights, gentle celebratory glow.
+Composition/framing: square, box in lower centre, lid above left, curved blank cream ticket rises centre-right, a few sparse star light points around upper part; whole object set and sparkle edges contained with generous transparent margin. Mild three-quarter frontal view; keep ticket interior clear enough to represent a redeemable reward.
+Lighting/mood: welcoming joyful reward reveal, warm sunny gold glow without intense flashing or overexposure.
+Constraints: all ticket surfaces FULLY BLANK. No text, letters, numbers, scribbles, marks, labels, price signage, UI, buttons, card frames, logos, watermark, people or animal characters. Exactly one gift box, its lid, one ticket and a few stars/sparkles. TRUE alpha transparency around them, no scenery or background plate, no solid backdrop or checkerboard pixels.
+

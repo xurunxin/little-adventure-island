@@ -1,0 +1,53 @@
+{
+  "frames": {
+    "rabbit": {
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 658,
+        "h": 768
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 658,
+        "h": 768
+      },
+      "sourceSize": {
+        "w": 658,
+        "h": 768
+      }
+    },
+    "rabbit-happy": {
+      "frame": {
+        "x": 664,
+        "y": 2,
+        "w": 658,
+        "h": 768
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 658,
+        "h": 768
+      },
+      "sourceSize": {
+        "w": 658,
+        "h": 768
+      }
+    }
+  },
+  "meta": {
+    "image": "rabbit.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 1326,
+      "h": 772
+    },
+    "scale": "1"
+  }
+}

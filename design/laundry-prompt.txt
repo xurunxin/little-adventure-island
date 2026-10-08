@@ -1,0 +1,9 @@
+Built-in image_gen generation. References: app/design/selected-home.png, app/public/assets/tasks/wash-hands.png.
+Original output: generated-images/01a11bac-8207-7d53-a6a1-52492543fd48/exec-ff26098e-324c-435f-af9a-f810b67b5867.png
+Final asset: app/public/assets/tasks/laundry.png (640 x 640; high-quality bicubic size normalization; no crop)
+
+Use case: illustration-story
+Asset type: standalone opaque square task illustration for a preschool Android app, desired final size 640 by 640 pixels.
+Input images: selected-home.png and wash-hands.png are style and same-child identity references only. Do not reproduce app interface or washing hands.
+Primary request: one complete square illustration of the same cheerful round-faced 4.5-year-old Chinese boy with tousled brown hair, wearing blue-and-white short-sleeve shirt and blue trousers, putting a small previously worn yellow T-shirt into a low open laundry hamper. The boy holds the shirt with both hands over the hamper opening, so the action of placing dirty clothes in the laundry basket is instantly clear. The laundry hamper is a rounded pale cream woven basket with a folded piece of clothing already inside. Boy kneels beside it in a cozy tidy home room, with softly painted cream backdrop, a low wardrobe hint and gentle sunlight. Show his face, hands, shirt and open hamper prominently. Match exactly the references' warm dimensional children's picture-book style, soft hand-painted textures, gently rounded forms, pale cream colors and soft natural light.
+Constraints: full square opaque finished illustration, no card frame, no border, no rounded crop, no text, no labels, no buttons, no stars, no UI, no screenshot or collage, no extra people. Preserve same child identity and age.

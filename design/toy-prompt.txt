@@ -1,0 +1,18 @@
+Built-in image_gen generated transparent little toy reward illustration.
+Reference: design/selected-home.png
+Source: generated-images/01a11bac-1388-7d50-97ab-60662472cc6c/exec-85f7f3ca-be38-41ec-9e73-bd291147a2c6.png
+Destination: public/assets/rewards/toy.png
+Native source: 1254x1254 RGBA
+Final asset: 640x640 RGBA, high-quality bicubic resize preserving alpha via System.Drawing as explicitly requested.
+Visual QA: One carved friendly wooden bear figurine and one chunky aqua-and-yellow toy car. Smooth child-friendly shapes, warm painted dimensional materials. True transparency outside toys; no text, UI, card frame or extra objects.
+
+Final prompt:
+Use case: illustration-story
+Asset type: transparent square reward illustration for a preschool child's storybook Android app, final asset 640x640.
+Input images: Image 1 is selected style reference. Match its warm dimensional hand-painted children's picture-book materials, soft edges and gentle colors; reward art must fit the same family.
+Primary request: ONE square still-life illustration of a small wooden animal toy and a cute rounded toy car, isolated centrally on TRUE TRANSPARENT background. The wooden animal is a simple friendly caramel-brown little bear figurine with softly rounded ears and a tiny gentle smile, recognizable wood-grain texture, child-safe smooth shape. Beside it is one chunky small pale-aqua toy car with warm yellow roof, soft cream wheels, round corners and simple windows. Both should clearly appear to be real small preschool toys.
+Style/medium: warm dimensional storybook illustration, softly hand-painted textures, tactile brushed wood, pastel cream, aqua, caramel and yellow, simple readable silhouettes, gentle rounded forms.
+Composition/framing: square close-up still life, bear toy left behind and car right in front, light natural overlap but both whole shapes visible; the pair fills roughly 75 percent of frame with ample transparent margin, mild three-quarter front view.
+Lighting/mood: soft sunny light and delicate highlights, cheerful inviting little reward.
+Constraints: exactly one wooden animal figurine and one toy car. No ground plate, backdrop, scene, table, people, hands, text, letters, numbers, labels, price signage, UI, buttons, card frames, speech bubbles, logos or watermark. True alpha transparency surrounding the toys, no colored backdrop or checkerboard pixels. No loose tiny pieces.
+

@@ -1,0 +1,9 @@
+Built-in image_gen generation, transparent_background=true. Reference: app/public/assets/pets/fox.png.
+Original output: generated-images/01a11bac-8207-7d53-a6a1-52492543fd48/exec-5b11e0ec-f491-4896-b595-38beff7cfc6c.png
+Final asset: app/public/assets/pets/fox-icon.png (256 x 256; high-quality bicubic size normalization, alpha preserved; no crop)
+
+Use case: stylized-concept
+Asset type: standalone transparent companion avatar icon for a preschool Android app, final 256 by 256 pixels.
+Input image: fox.png is exact character identity, color, material and styling reference. Create a head-only avatar of this same fox, do not change character.
+Primary request: a centered front-facing cute portrait avatar of the exact orange fox companion in the reference. Show ONLY its full head, both rounded triangular ears, fluffy white cheeks and muzzle, large shiny warm-brown eyes, tiny dark brown nose, cheerful open-mouth smile and the small upper edge of its mint-green leaf-pattern scarf below the chin. Same fluffy orange fur and cream white muzzle, brown ear tips, gentle eyebrows and rounded proportions. All ears and cheeks fully visible with clear transparent margin. No torso, paws or tail. Warm dimensional children's picture-book look with soft hand-painted fur texture and gentle creamy light, optimized for a recognizable small navigation icon.
+Constraints: genuinely transparent background and preserved alpha. Single fox head portrait only, no circle badge, no frame, no border, no text, no labels, no buttons, no stars, no UI, no scene or collage, no checkerboard baked into pixels. Preserve exact fox identity.

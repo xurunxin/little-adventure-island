@@ -1,0 +1,19 @@
+Built-in image_gen generated transparent wooden Chinese title sign.
+Reference: design/selected-home.png (top-left title plaque)
+Source: generated-images/01a11bac-1388-7d50-97ab-60662472cc6c/exec-9147b9a9-04ad-4579-b30d-62bb927bdcbb.png
+Destination: public/assets/title.png
+Intended display: around 800x210, CSS contain preserves native proportions
+Actual native canvas: 2055x765 (copied without resampling); visible sign is wide horizontal with transparent vertical margin.
+Alpha verification: Format32bppArgb, corner alpha 0, centre alpha 253. Native transparency and painted softness preserved.
+Visual QA: Exactly five large dark-brown Chinese characters 小小冒险岛, one green leaf on left, rounded pale wood sign, no additional words or symbols. Text accurate and clear, consistent warm dimensional storybook material.
+
+Final prompt:
+Use case: illustration-story
+Asset type: transparent wide raster title sign for a preschool children's storybook Android app, intended display about 800x210.
+Input images: Image 1 is the selected style and title reference. Match the warm light-wood rounded title plaque at top-left of its home interface.
+Primary request: ONE horizontal pale honey-wood title plaque isolated on TRUE TRANSPARENT background, containing exactly the Chinese title “小小冒险岛”. Five characters, in this order: 小 小 冒 险 岛. The lettering must be clear, accurate, large, rounded, warm dark brown, playful dimensional picture-book lettering with strong legibility. Put a single small soft green leaf at the far left of the sign as in reference, before the title. All five characters occupy one line.
+Style/medium: warm dimensional children's picture-book craftsmanship, soft hand-painted fine wood grain, rounded corners, slightly uneven friendly wood edge, subtle page-like cream highlights, tactile green leaf.
+Composition/framing: wide horizontal roughly 800:210 aspect, front-facing level sign with all edges visible, transparent small outside margin. Leaf on left, title centred in remaining long plaque area. No extreme perspective.
+Text (verbatim): “小小冒险岛”
+Constraints: Exactly one title sign and one green leaf. No other letters, words, numbers, symbols, labels, additional decorative animals or objects. No UI, buttons, star counters, backgrounds, scenes, characters, card frames, logos or watermark. TRUE alpha transparency around plaque, no solid backdrop and no checkerboard pixels. Preserve the exact Chinese title and do not duplicate characters.
+

@@ -1,0 +1,10 @@
+Built-in image_gen generation. References: app/design/selected-home.png, app/public/assets/tasks/wash-hands.png.
+Original output: generated-images/01a11bac-8207-7d53-a6a1-52492543fd48/exec-224522e3-7786-4a86-a222-2c6386c8dca2.png
+Final asset: app/public/assets/tasks/story.png (640 x 640; high-quality bicubic size normalization; no crop)
+
+Use case: illustration-story
+Asset type: standalone opaque square task illustration for a preschool Android app, desired final size 640 by 640 pixels.
+Input images: selected-home.png is reference for the same mother's face in the reading card and warm visual style. wash-hands.png is same-child identity, blue-and-white shirt and style reference. Create the boy telling a story, not just silently reading.
+Primary request: one complete square illustration of the same cheerful round-faced 4.5-year-old Chinese boy with tousled brown hair, blue short-sleeve shirt with white cuffs and blue trousers, sitting next to his mother on a cozy cream sofa. A large OPEN picture book lies clearly visible across his lap. The boy points with one finger at a rabbit and bear illustration inside the book and has his mouth open happily while looking toward his mother, visibly telling her a story. Mother with shoulder-length brown hair, soft pink blouse and blue trousers smiles and listens attentively. The book illustrations have animals, trees and a small house without any writing. Show their faces, pointing hand and open book prominently. Cozy pale cream home background, warm daylight.
+Style: exact reference warm dimensional children's picture-book style, soft tactile hand-painted textures, rounded forms, gentle cream palette.
+Constraints: one full square opaque finished illustration, no card frame, no border, no rounded crop, no text or letters anywhere even in the book, no speech bubble, no labels, no buttons, no stars, no UI, no screenshot or collage, no extra people. Preserve child and mother identity. Pointing and storytelling action must be clear.

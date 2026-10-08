@@ -1,0 +1,20 @@
+Built-in image_gen generated family blocks activity reward illustration.
+Reference: design/selected-home.png
+Source: generated-images/01a11bac-1388-7d50-97ab-60662472cc6c/exec-bcfea17d-5a67-4bc7-ac30-da6d0621b1b6.png
+Destination: public/assets/rewards/activity.png
+Requested layout: 640x640 square
+Actual native dimensions: 1254x1254 (copied without resampling)
+Opacity verification: corner alpha 255, opaque warm living-room scene.
+Visual QA: Same boy in yellow stripes with pink-sweater mother and aqua-sweater father sitting on cream rug building colorful wooden tower. Three people, shared action clear. Soft dimensional storybook style, no text, card frames or UI.
+
+Final prompt:
+Use case: illustration-story
+Asset type: square family-activity reward illustration for a preschool child's offline Android app, target 640x640.
+Input images: Image 1 is selected visual style and characters reference. Match the same smiling brown-haired 4-and-a-half-year-old boy with rosy cheeks, yellow-and-white striped shirt, blue trousers, and the warm brown-haired mother in a soft pink sweater from its reading illustration.
+Primary request: ONE square illustration of this boy and his mother and father all sitting together on a soft cream rug happily building a colorful wooden block tower. Boy is front centre, mother is on left, father on right with friendly brown hair and light aqua sweater. Show each contributing to the shared building activity: boy places a block on top, one parent holds next block and other gently steadies the tower. Exactly three people.
+Scene/backdrop: cozy sunny cream living room, soft sofa and small green plant in gently blurred background. Simple relaxed family floor play, no visual clutter.
+Style/medium: same warm sophisticated dimensional children's storybook art, soft hand-painted textures, rounded friendly faces and forms, gentle pastel cream, peach, aqua, yellow and soft green palette.
+Composition/framing: square medium-wide crop showing faces, hands and the block tower prominently in lower centre. All three people and enough rug visible. Clear family cooperation at a glance.
+Lighting/mood: soft daylight, loving and joyful family time, warm relaxed smiles.
+Constraints: no text, letters, numbers, logos, readable labels, UI, buttons, counters, card frame, speech bubbles or watermark. No animal companion. No reward or price signage.
+

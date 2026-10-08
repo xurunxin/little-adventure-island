@@ -1,0 +1,10 @@
+Built-in image_gen generation. References: app/public/assets/tasks/wash-hands.png, app/public/assets/tasks/tidy-toys.png.
+Original output: generated-images/01a11bac-8207-7d53-a6a1-52492543fd48/exec-3a2d40f7-7e32-407f-9b1b-67decf9e62a5.png
+Final asset: app/public/assets/tasks/sort-blocks.png (640 x 640; high-quality bicubic size normalization; no crop)
+
+Use case: illustration-story
+Asset type: standalone opaque square task illustration for a preschool Android app, desired final size 640 by 640 pixels.
+Input images: wash-hands.png is same-child face and visual style reference. tidy-toys.png is room and soft material reference. Create a different action.
+Primary request: one complete square illustration of the same cheerful round-faced 4.5-year-old Chinese boy with tousled brown hair, blue short-sleeve shirt with white sleeve cuffs and blue trousers, sorting large red, blue and yellow toy blocks into THREE distinct color groups on a cream rug. The boy sits on the floor and holds one red block above the red group, placing it with the other red blocks. The blue blocks form a separate blue group, and the yellow blocks form a separate yellow group. Make the three groups clearly spaced and prominently visible in the foreground, so color-sorting is instantly understood by a young child. Each group has several chunky cube blocks of ONLY its own color. Friendly smile, hands, colorful blocks and grouping all prominent. Cozy softly simplified cream home room, warm daylight.
+Style: match references' warm dimensional children's picture-book style, soft hand-painted tactile textures, rounded forms and cream palette.
+Constraints: one full square opaque finished illustration, no card frame, no border, no rounded crop, no text, no labels, no buttons, no stars, no UI, no screenshot or collage, no extra people. Preserve child identity and age. Exactly three separate color groups, red, blue and yellow.

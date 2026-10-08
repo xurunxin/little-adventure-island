@@ -1,0 +1,10 @@
+Built-in image_gen generation. References: app/public/assets/tasks/wash-hands.png, app/public/assets/tasks/draw.png.
+Original output: generated-images/01a11bac-8207-7d53-a6a1-52492543fd48/exec-1d706610-ebe9-4f5c-bfb5-f1cb56c25f76.png
+Final asset: app/public/assets/tasks/puzzle.png (640 x 640; high-quality bicubic size normalization; no crop)
+
+Use case: illustration-story
+Asset type: standalone opaque square task illustration for a preschool Android app, desired final size 640 by 640 pixels.
+Input images: wash-hands.png is same-child identity and rendering reference; draw.png is same small pale wooden table and room reference. Create a puzzle activity.
+Primary request: one complete square illustration of the same cheerful round-faced 4.5-year-old Chinese boy with tousled brown hair, blue short-sleeve shirt with white cuffs and blue trousers, sitting at his low pale wooden table completing an age-appropriate large-piece jigsaw puzzle. Puzzle shows a cute rabbit and bear on green grass under a blue sky, no words. Show eight to twelve large chunky connected puzzle pieces with clearly visible jigsaw edges. His hand is placing the final large piece into the matching open hole; the missing piece and fitting action must be easy to see. The other hand steadies the puzzle. Frame smiling boy, hands and puzzle prominently. Cozy cream home room with soft daylight.
+Style: exact references' warm dimensional children's picture-book style, soft tactile hand-painted textures, rounded forms and pale cream palette.
+Constraints: one full square opaque finished illustration, no card frame, no border, no rounded crop, no text or letters even on puzzle, no labels, no buttons, no star symbols, no UI, no screenshot or collage, no extra people. Preserve child identity and age. Make jigsaw-piece fitting obvious.

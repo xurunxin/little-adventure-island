@@ -1,0 +1,18 @@
+Mode: built-in image_gen
+Source file: generated-images/01a11bac-4c21-7351-80db-45c0b101f5fb/exec-96db4340-2034-4c64-9e31-4aea67214ccc.png
+Reference file: public/assets/pets/rabbit.png
+Destination: public/assets/pets/rabbit-icon.png
+Transparent background: true
+Generated result: 1254 x 1254 RGBA.
+Asset processing: resized to 256 x 256 with Pillow LANCZOS; no semantic edits; alpha preserved.
+
+Final prompt:
+Use case: precise-object-edit
+Asset type: transparent 256x256 rabbit companion avatar icon for a preschool adventure app.
+Input image: public/assets/pets/rabbit.png is the exact character identity and art style reference.
+Primary request: produce a single front-facing head-only avatar of this same adorable white rabbit, showing the full head and both complete long ears, and only the upper mint-green scarf band beneath the chin. Keep both eyes open and the cheerful friendly smile.
+Identity invariants: same cream-white soft fluffy fur, large dark-brown eyes, tiny pink nose, rosy rounded cheeks, small front teeth, pink ear interiors, one upright long ear and the other gently bent, rounded forehead tuft, and mint scarf with white leaf patterns. Preserve the soft dimensional children's picture-book texture and warm gentle light.
+Composition: square 256x256 canvas, complete ears and head centered with useful clear transparent margins, face large and readable as a small navigation avatar. Show only the head and the top edge of the scarf; no shoulders, chest, body, paws or tail. The scarf band ends naturally beneath the chin.
+Background: genuinely transparent alpha, no circular background tile, no border, no scenery, no props, no ground, no UI, no text, logo or watermark.
+Constraints: one rabbit avatar, no duplicates or sprite sheet, no new accessories or character changes.
+

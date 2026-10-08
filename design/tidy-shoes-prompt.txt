@@ -1,0 +1,18 @@
+Mode: built-in image_gen
+Source file: generated-images/01a11bac-4c21-7351-80db-45c0b101f5fb/exec-735149e1-eb4d-4041-b163-021c130fa250.png
+Reference files: public/assets/tasks/wear-shoes.png; public/assets/tasks/books.png
+Destination: public/assets/tasks/tidy-shoes.png
+Transparent background: false
+Generated result: 1254 x 1254 RGB.
+Asset processing: resized to 640 x 640 with Pillow LANCZOS; no semantic edits; fully opaque RGB.
+
+Final prompt:
+Use case: illustration-story
+Asset type: opaque square task-card illustration for a preschool children's task app: tidying shoes.
+Input image 1: public/assets/tasks/wear-shoes.png is the exact boy identity, clothing and entryway reference. Input image 2: public/assets/tasks/books.png is the established soft dimensional children's picture-book illustration style reference.
+Primary request: the same adorable brown-haired 4-and-a-half-year-old boy, wearing a yellow-and-cream striped T-shirt, blue trousers and white socks, squatting at a warm home entryway. With both hands he is neatly arranging HIS TWO small blue shoes side by side on the floor. One hand holds each shoe at its heel to align them. Both shoes are completely off his feet, lie flat, form a neat parallel matching pair, and face the same direction. He smiles while looking at the shoes. The action must clearly show putting shoes neatly together, not putting shoes on.
+Scene: cozy cream-colored family entryway, honey wooden door and simple small shoe rack softly in the background, warm sunlight, uncluttered foreground.
+Composition: 640x640 square full-bleed illustration, boy and both hands prominently visible, shoe pair large and clearly readable in the lower foreground. Avoid cropping head, hands or the two shoes.
+Style: match the same rounded brown-haired child with rosy cheeks, large friendly dark eyes, dimensional plush children's storybook rendering, soft fabric texture, creamy home colors and warm golden daylight from the references.
+Constraints: opaque filled background, no text, no letters, no numbers, no UI, no border, no frame, no watermark. Exactly one child and a clearly visible matching pair of his shoes.
+

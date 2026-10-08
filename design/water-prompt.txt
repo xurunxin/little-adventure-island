@@ -1,0 +1,9 @@
+Built-in image_gen generation. References: app/public/assets/tasks/wash-hands.png, app/public/assets/tasks/outdoors.png.
+Original output: generated-images/01a11bac-8207-7d53-a6a1-52492543fd48/exec-dadc5e18-3956-4371-838d-99eb4403f148.png
+Final asset: app/public/assets/tasks/water.png (640 x 640; high-quality bicubic size normalization; no crop)
+
+Use case: illustration-story
+Asset type: standalone opaque square task illustration for a preschool Android app, desired final size 640 by 640 pixels.
+Input images: wash-hands.png is same-child identity and rendering reference. outdoors.png is same-mother identity reference. Create watering plants together.
+Primary request: one complete square illustration of the same cheerful round-faced 4.5-year-old Chinese boy with tousled brown hair, blue short-sleeve shirt with white cuffs and blue trousers, using a small pale blue watering can to water a LOW green potted plant. Mother with shoulder-length brown hair and pale pink blouse crouches beside him and helps steady the watering can with one hand. Both are smiling and looking at the plant. The boy's hands hold the little can; mother supporting the can makes adult accompaniment obvious. Clear small streams of water pour from the spout onto the soil of the rounded low cream planter. The plant has healthy simple round leaves. Show their faces, hands, watering can, water streams and plant prominently in a cozy sunny home balcony/garden corner with pale cream backdrop and soft foliage. Match references' warm dimensional children's picture-book style, soft hand-painted tactile textures, rounded forms, gentle cream, soft green and blue colors.
+Constraints: one full square opaque finished illustration, no card frame, no border, no rounded crop, no text, no labels, no buttons, no stars, no UI, no screenshot or collage, no extra people. Preserve mother and child identity and child age. Watering and adult help clear.

@@ -1,0 +1,18 @@
+Mode: built-in image_gen
+Source file: generated-images/01a11bac-4c21-7351-80db-45c0b101f5fb/exec-f2e006a7-3dda-4376-bad4-992ac2769279.png
+Reference file: design/selected-home.png
+Destination: public/assets/pets/fox.png
+Transparent background: true
+Result: 1161 x 1355 RGBA; original generated alpha preserved.
+
+Final prompt:
+Use case: stylized-concept
+Asset type: a single transparent full-body animal companion cutout for a preschool Android tablet app.
+Input image: design/selected-home.png is the character identity and children's storybook style reference. Recreate only the orange fox on the right of that reference, as a standalone asset.
+Primary request: one adorable round orange fox, warm soft fluffy fur with a polished dimensional children's picture-book look. Preserve the reference identity: large triangular ears with dark brown tips and cream inner ear, broad cream cheeks and muzzle, small dark nose, orange forehead tuft, cream chest, dark-brown paws, fluffy orange tail with cream-white tip. Preserve its mint-green scarf with small white leaf patterns and a tied end on the right.
+Pose and expression: sitting upright with all four paws visible, body mostly facing front with a very slight three-quarter angle, both eyes open, dark friendly eyes, a gentle cheerful smile. The complete tail extends to the fox's right and is entirely visible. This is a still idle pose suitable for a subtle breathing scale animation.
+Composition: isolated centered full body, portrait canvas about 768x896 px, leave modest transparent margins around ears, feet and tail. Complete character, nothing cropped.
+Style: the exact soft plush orange fox style of the supplied reference, rounded and toddler-friendly, warm daylight, fine soft fur, smooth painted shading.
+Background: genuinely transparent alpha, clean feather-free cutout edge, no background, no ground or ground shadow, no props, no scenery, no text, no speech bubble, no UI, no watermark.
+Constraints: exactly one fox; no sprite sheet; no duplicate characters; scarf is the only accessory.
+

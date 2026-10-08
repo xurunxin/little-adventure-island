@@ -1,0 +1,18 @@
+Mode: built-in image_gen
+Source file: generated-images/01a11bac-4c21-7351-80db-45c0b101f5fb/exec-08ce0953-5f87-4b41-825f-82dcd2ebe1f7.png
+Reference files: public/assets/tasks/pencils.png; public/assets/tasks/books.png
+Destination: public/assets/tasks/colors.png
+Transparent background: false
+Generated result: 1254 x 1254 RGB.
+Asset processing: resized to 640 x 640 with Pillow LANCZOS; no semantic edits; fully opaque RGB.
+
+Final prompt:
+Use case: illustration-story
+Asset type: opaque square task-card illustration for a preschool children's task app: finding three colors.
+Input image 1: public/assets/tasks/pencils.png is the exact brown-haired Chinese preschool boy identity and clothing reference. Input image 2: public/assets/tasks/books.png is the established soft dimensional children's picture-book style reference.
+Primary request: the same adorable brown-haired 4-and-a-half-year-old Chinese boy in a yellow-and-cream striped T-shirt, happily identifying three colors. At a little wooden table, he points with one index finger directly at a red wooden toy cube. Beside it are one yellow cube and one blue cube. The three large toy blocks are clearly separated in a neat row, with vivid unmistakable RED, YELLOW and BLUE colors and rounded safe corners. His other hand is open beside the trio as if presenting the colors. He smiles brightly while looking at the three blocks.
+Scene: cozy cream-colored family playroom, low honey-wood table, warm sunlight and softly blurred simple neutral background. Keep the action uncluttered so exactly these three color blocks are immediately readable.
+Composition: 640x640 square full-bleed illustration, boy's face and pointing hand clearly visible in upper half, three large cubes prominent in lower foreground, slightly elevated three-quarter viewpoint. No cropped face or hand.
+Style: match the exact rosy-cheeked rounded child, friendly large dark eyes, warm brown hair, soft dimensional children's storybook rendering, subtle fabric and wood textures, creamy home colors and gentle golden daylight.
+Constraints: opaque soft filled background, exactly one child and exactly three featured cubes, one red, one yellow, one blue. No writing or symbols on cubes. No text, letters, numbers, UI, border, frame or watermark.
+

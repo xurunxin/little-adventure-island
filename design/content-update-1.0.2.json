@@ -1,0 +1,30 @@
+{
+  "date": "2026-10-09",
+  "tool": "built-in image_gen",
+  "voice": {
+    "id": "Chinese (Mandarin)_Cute_Spirit",
+    "label": "憨憨萌兽 · 童趣伙伴",
+    "model": "speech-2.8-hd",
+    "speed": 0.92,
+    "generation": "mmx CLI",
+    "sample": "evidence/childlike-voice-sample.mp3"
+  },
+  "images": [
+    {
+      "name": "神秘礼物",
+      "generatedFile": "exec-d07a42c3-f9ef-47d0-aeb3-eb554a084b83.png",
+      "source": "public/assets/rewards/mystery-gift.png",
+      "runtime": "public/assets/rewards/mystery-gift.webp",
+      "transparent": true,
+      "prompt": "Use case: illustration-story. Asset type: a square reward icon for the Chinese preschool app Little Adventure Island. Create ONE charming mysterious wrapped present, its contents completely hidden: rounded lavender gift box, thick golden yellow ribbon tied in a soft big bow, a small blank hanging star-shaped tag, a few tiny glowing star sparkles hovering around the closed lid. Style: warm layered storybook illustration, gently dimensional carved-wood / soft clay toy materials with fine tactile brush texture; friendly rounded forms, creamy amber highlights, pastel mint and lavender, soft warm shadows, matching the existing app's pastel wooden teddy and toy car reward illustrations. Composition: single centered isolated gift fills about 75% of square canvas, generous clear edges, readable silhouette at small 80px thumbnail. Real transparent background, no room, floor, background gradient or frame. No text, no letters, no numerals, no question-mark symbol, no watermark, no revealed toys, no logos, not photorealistic. Friendly preschool treasure surprise, not a random lootbox or gambling device."
+    },
+    {
+      "name": "自己阅读",
+      "generatedFile": "exec-90f7bfe3-3210-4e22-b320-8858f73adbb0.png",
+      "source": "public/assets/tasks/read-alone.png",
+      "runtime": "public/assets/tasks/read-alone.webp",
+      "transparent": false,
+      "prompt": "Use case: illustration-story. Asset type: a square task picture card for a Chinese app used by a 4.5-year-old child. Create ONE illustration showing a preschool boy reading a colorful picture book on his own. He has short warm brown hair, large friendly black eyes, rosy cheeks, and a yellow-and-cream striped shirt with blue trousers. He is seated comfortably on a pale mint couch cushion, both hands clearly holding an open large picture book, looking down attentively and happily at its illustrated animals. The image must unmistakably communicate the child looking through a book independently: only ONE child, no parent or other person. Style: warmly lit gently dimensional storybook illustration with delicate painterly / soft clay-like rounded forms, tactile fabric texture, cozy cream, yellow, mint and wood palette, same friendly proportions as a preschool boy reading with his mother in the existing app. Composition: close full upper body and open book, child and book dominant, centered clear action at thumbnail size; simple softly blurred cozy home reading nook with a warm window and tiny shelf in the background, very low background clutter. Square canvas, full opaque scene. No words, no letters, no numbers, no writing in the book, no watermark, no logos, no phone or tablet. A calm, age appropriate scene of looking at an illustrated picture book, not reading dense text."
+    }
+  ]
+}

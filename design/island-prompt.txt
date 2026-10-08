@@ -1,0 +1,19 @@
+Built-in image_gen generated production scene background.
+Reference: design/selected-home.png
+Source: generated-images/01a11bac-1388-7d50-97ab-60662472cc6c/exec-1267d2fe-7dc0-4a64-8063-8498f779a5f7.png
+Destination: public/assets/island.png
+Requested layout: 1920x1200 landscape
+Actual native dimensions: 1586x992 (copied without resampling)
+Visual QA: Warm dimensional storybook style consistent with selected reference. Left calm sky/water/meadow, lighthouse distant, house and garden right, grass available lower-right. No UI, text, counters, characters, speech bubbles or task book. Opaque full-scene image.
+
+Final prompt:
+Use case: illustration-story
+Asset type: production background asset for a 1920x1200 landscape Android children's reward-adventure app.
+Input images: Image 1 is a STYLE AND ENVIRONMENT reference, not an interface to copy.
+Primary request: Generate ONE complete illustration background, landscape 1920x1200 (16:10), matching the provided reference's warm dimensional storybook art, softly hand painted texture, gentle depth, rounded shapes, and sunny colors.
+Scene/backdrop: a cheerful animal adventure island with light turquoise-blue lake/sea, pastel blue sky, fluffy distant clouds, a small far-away island with a white and coral lighthouse. On the far right, a cozy tree-house cottage with a warm wooden arched door, sunny garden, white picket fence and flowers. Foreground bottom is soft grassy meadow with a few stepping stones. Leaves, subtle flowers frame the four corners.
+Composition/framing: The left approximately 68 percent must be visually calm and unobstructed: mostly soft sky, water and meadow, to support a large task-book interface added later in code. Keep all focal detail and house architecture concentrated on the right 32 percent. The lower-right quarter should have an empty grassy clearing reserved for an animal companion added later; no creature occupies it. The landscape fills the entire image with no blank border.
+Lighting/mood: welcoming sunny morning; soft shadows, warm yellow-green foliage and cream/tan wooden house, aqua water, gentle coral and yellow flowers.
+Materials/textures: painterly children's picture-book finish, tactile soft foliage, subtly brushed wood, soft lush grass; sophisticated dimensional illustration, consistent with the reference.
+Constraints: Scene artwork ONLY. REMOVE ALL interface panels, ALL task book/page objects, ALL cards, ALL title boards, ALL counters, ALL navigation, ALL locks, ALL signage, ALL speech bubbles, ALL text and numbers, ALL animals and humans. No fox, bunny, bear, bird or child. No text anywhere. No watermark. No user-interface elements. Do not create an app mockup. This asset will be the background below native rendered UI and separate animal sprites.
+

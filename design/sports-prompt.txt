@@ -1,0 +1,18 @@
+Mode: built-in image_gen
+Source file: generated-images/01a11bac-4c21-7351-80db-45c0b101f5fb/exec-006534dd-76b6-4473-a5f1-607497ff30f8.png
+Reference files: public/assets/tasks/tidy-shoes.png; public/assets/tasks/books.png
+Destination: public/assets/tasks/sports.png
+Transparent background: false
+Generated result: 1254 x 1254 RGB.
+Asset processing: resized to 640 x 640 with Pillow LANCZOS; no semantic edits; fully opaque RGB.
+
+Final prompt:
+Use case: illustration-story
+Asset type: opaque square task-card illustration for a preschool children's task app: putting away sports toys.
+Input image 1: public/assets/tasks/tidy-shoes.png is the exact brown-haired Chinese preschool boy identity and clothing reference. Input image 2: public/assets/tasks/books.png is the established soft dimensional children's picture-book style reference.
+Primary request: the same adorable brown-haired 4-and-a-half-year-old boy in a yellow-and-cream striped T-shirt, blue trousers and white socks, kneeling on the family room floor. He is putting a brightly colored red-yellow-blue children's ball and a neatly coiled jump rope back into an open sports-toy basket. One hand supports the ball as he lowers it through the basket's rim, and the other hand places the looped rope beside it. The rope's two rounded colorful handles are clearly visible. He smiles and looks at the basket.
+Scene: cozy cream-colored family playroom, a large rounded mint-green fabric toy basket in the foreground, low wooden shelf and soft warm daylight in the background. Keep the floor tidy and scene uncluttered so returning these sports toys is clear.
+Composition: 640x640 square full-bleed illustration, boy and both hands complete, ball, coiled jump rope and open basket large and visible in lower foreground, slightly elevated three-quarter camera so the basket interior and returning action are readable.
+Style: match the rounded rosy-cheeked boy, friendly dark eyes, soft dimensional children's storybook rendering, subtle fabric textures, cream home colors and gentle golden sunlight.
+Constraints: opaque soft filled background, one child, no other toys competing with the ball and jump rope. No text, letters, numbers, UI, border, frame, logo or watermark.
+

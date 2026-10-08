@@ -1,0 +1,9 @@
+Built-in image_gen generation. References: app/design/selected-home.png, app/public/assets/tasks/wash-hands.png.
+Original output: generated-images/01a11bac-8207-7d53-a6a1-52492543fd48/exec-989a046f-905b-4de7-9da8-6813d46d2cc4.png
+Final asset: app/public/assets/tasks/tidy-toys.png (640 x 640; high-quality bicubic size normalization; no crop)
+
+Use case: illustration-story
+Asset type: standalone opaque square task illustration for a preschool Android app, desired final size 640 by 640 pixels.
+Input images: Image 1 selected-home.png is style/composition reference; use its middle task illustration of the boy tidying toys. Image 2 wash-hands.png is the same child's face and rendering reference. Do not reproduce either app interface.
+Primary request: one complete independent square illustration showing the same cheerful round-faced 4.5-year-old Chinese boy with tousled brown hair, this time wearing a yellow and white striped short-sleeve shirt and blue trousers, smiling as he puts a soft brown teddy bear into a pale green toy storage bin with both hands. The bin is open in front of him; a few small colored building blocks and a red toy car lie nearby. The action of putting toys away is instantly understandable, big and central. He kneels beside the bin in a cozy child's room, warm pale cream background with softly painted shelf hints. Match the first and second references exactly in warm dimensional children's picture-book style, very soft hand-painted textures, rounded forms, pale cream colors, and gentle daylight.
+Constraints: full square opaque finished illustration, no card frame, no border, no rounded crop, no text, no labels, no buttons, no stars, no UI, no screenshot or collage, no extra people. Preserve the same child identity, age and friendly expression.

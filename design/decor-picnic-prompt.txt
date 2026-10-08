@@ -1,0 +1,9 @@
+Built-in image_gen generation, transparent_background=true. Reference: app/design/selected-home.png.
+Original output: generated-images/01a11bac-8207-7d53-a6a1-52492543fd48/exec-54cfb616-a0e8-4963-a856-4b6a3326dba7.png
+Final asset: app/public/assets/decor/picnic.png (512 x 512; high-quality bicubic size normalization, alpha preserved; no crop)
+
+Use case: stylized-concept
+Asset type: standalone transparent island-home growth decoration for a preschool Android app, final 512 by 512 pixels.
+Input image: selected-home.png is warm dimensional picture-book rendering and pale wood material reference only; do not reproduce app interface.
+Primary request: one small rounded pale wooden picnic table with attached benches, a simple woven fruit basket on the tabletop holding a few apples and bananas, and exactly two small pale blue cups beside it. Cute toy-like gentle proportions, sturdy soft-edged legs and benches, front three-quarter isometric-ish view showing tabletop and bench structure clearly. Entire object visible and centered with generous clear margin. Warm creamy wood, rounded forms, softly hand-painted tactile textures, gentle dimensional children's picture-book style consistent with selected-home island, soft sunlit highlights.
+Constraints: genuinely transparent background with preserved alpha, only the picnic table, basket, fruit and two cups; no people, animals, grass, floor, landscape, no card frame, no border, no text, no labels, no UI, no stars or collage. No checkerboard pattern baked into image. Do not crop any part.

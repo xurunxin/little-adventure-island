@@ -1,0 +1,10 @@
+Built-in image_gen generation. References: app/public/assets/tasks/wash-hands.png, app/public/assets/tasks/brush-morning.png.
+Original output: generated-images/01a11bac-8207-7d53-a6a1-52492543fd48/exec-0d5d1fc7-8383-48c5-8c15-dc93638ea946.png
+Final asset: app/public/assets/tasks/brush-night.png (640 x 640; high-quality bicubic size normalization; no crop)
+
+Use case: illustration-story
+Asset type: standalone opaque square task illustration for a preschool Android app, desired final size 640 by 640 pixels.
+Input images: wash-hands.png is same-child face, style and bathroom reference. brush-morning.png is action and same-child face reference. Create a night-time brushing scene, not a duplicate.
+Primary request: same cheerful round-faced 4.5-year-old Chinese boy with tousled brown hair, wearing soft pale blue pajamas, brushing his teeth before bedtime at a low child-sized cream-white bathroom sink. Show his hand holding a blue toothbrush clearly touching his teeth and a little white toothpaste foam around his smiling mouth. His other hand rests on the sink. A cup stands nearby. A cozy warm lamp illuminates the bathroom; a simple window shows deep soft blue evening sky with a small crescent moon so the night-time context is clear. Keep the scene bright and friendly, gently warm and reassuring rather than dark. Chest-up framing shows head, brushing hand, toothbrush, foam, sink and moonlit window clearly.
+Style: exact reference warm dimensional children's picture-book style, softly hand-painted tactile textures, rounded forms, gentle cream and pale blue colors, soft warm lamplight.
+Constraints: one full square opaque finished illustration, no card frame, no border, no rounded crop, no text, no labels, no buttons, no star symbols, no UI, no screenshot, no collage, no extra people. Preserve child identity and age.

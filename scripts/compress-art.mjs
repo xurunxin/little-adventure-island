@@ -1,0 +1,6 @@
+import sharp from 'sharp';
+import {readdir,writeFile} from 'node:fs/promises';
+import path from 'node:path';
+const assets=path.resolve('public/assets');const images=[];
+async function walk(folder){for(const entry of await readdir(folder,{withFileTypes:true})){const file=path.join(folder,entry.name);if(entry.isDirectory()){if(entry.name!=='atlases')await walk(file);}else if(entry.name.endsWith('.png')){const metadata=await sharp(file).metadata();const output=file.replace(/\.png$/,'.webp');const result=await sharp(file).webp({quality:92,alphaQuality:100,effort:6}).toFile(output);images.push({source:path.relative(assets,file).replaceAll('\\','/'),runtime:path.relative(assets,output).replaceAll('\\','/'),width:metadata.width,height:metadata.height,bytes:result.size,alpha:metadata.hasAlpha});}}}
+await walk(assets);await writeFile('design/art-manifest.json',JSON.stringify(images,null,2));const atlases=(await readdir(path.join(assets,'atlases'))).filter(name=>name.endsWith('.png')).map(name=>`/assets/atlases/${name}`);await writeFile(path.join(assets,'preload.json'),JSON.stringify({images:[...images.map(item=>`/assets/${item.runtime}`),...atlases]},null,2));console.log(`Compressed ${images.length} pictures to ${Math.round(images.reduce((sum,x)=>sum+x.bytes,0)/1024)} KB WebP. PNG sources retained.`);

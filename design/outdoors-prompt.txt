@@ -1,0 +1,10 @@
+Built-in image_gen generation. References: app/design/selected-home.png, app/public/assets/tasks/wash-hands.png.
+Original output: generated-images/01a11bac-8207-7d53-a6a1-52492543fd48/exec-7f89e559-d813-4343-9ddd-c371ab81c2b9.png
+Final asset: app/public/assets/tasks/outdoors.png (640 x 640; high-quality bicubic size normalization; no crop)
+
+Use case: illustration-story
+Asset type: standalone opaque square task illustration for a preschool Android app, desired final size 640 by 640 pixels.
+Input images: selected-home.png is reference for the same mother's appearance from its reading card and exact warm picture-book style. wash-hands.png is reference for same child's identity, brown hair, blue-and-white shirt and rendering. Do not reproduce app UI.
+Primary request: one complete square illustration of the same round-faced 4.5-year-old Chinese boy with tousled brown hair, wearing his blue shirt with white cuffs, blue trousers and small sneakers, happily walking hand-in-hand with his mother along a park path in gentle daylight. Mother has shoulder-length brown hair, warm pink blouse, blue trousers and friendly smile, matching the reading card. Show full figures from head to feet and clear walking poses, mother accompanies him close by. Soft green grass, rounded leafy trees, a few tiny flowers and soft sunny cream-toned park surroundings. The action is adult-accompanied outdoor activity and should be instantly understood by a young child.
+Style: exactly reference warm dimensional children's picture-book style, softly painted tactile materials, rounded faces and forms, soft natural daylight, pale cream and gentle green palette.
+Constraints: full square opaque finished illustration, no card frame, no border, no rounded crop, no text, no labels, no buttons, no stars, no UI, no screenshot or collage, no other people. Preserve the same child and mother identity and child age.

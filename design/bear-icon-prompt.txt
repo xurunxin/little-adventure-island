@@ -1,0 +1,17 @@
+Built-in image_gen generated transparent existing bear companion portrait icon.
+Reference: public/assets/pets/bear.png (identity reference, viewed before generation)
+Source: generated-images/01a11bac-1388-7d50-97ab-60662472cc6c/exec-e92f2f55-e516-4054-80b5-6edd49f39389.png
+Destination: public/assets/pets/bear-icon.png
+Native source: 1254x1254 RGBA
+Final asset: 256x256 RGBA, high-quality bicubic resize preserving alpha via System.Drawing as explicitly requested.
+Visual QA: Same caramel fluffy bear, cream muzzle and inner ears, large brown eyes, top tuft and happy open smile. Front-facing entire head with mint-leaf scarf upper edge only; no body or paws. Soft storybook material matches existing bear. True transparency, no text or UI.
+
+Final prompt:
+Use case: illustration-story
+Asset type: transparent square bear companion portrait icon for a preschool storybook app, final asset 256x256.
+Input images: Image 1 is the EXISTING bear companion identity reference. Preserve exactly this same character's caramel-brown fur, fluffy rounded head, cream inner ears and broad cream muzzle/cheeks, large glossy brown eyes, tiny brown nose, happy open-mouth smile and small top hair tuft. Preserve the mint-green scarf with pale leaf pattern.
+Primary request: ONE frontal close-up HEAD PORTRAIT of this same bear companion, isolated on TRUE TRANSPARENT background. Show only the entire rounded head and both ears plus a narrow strip of the mint-green scarf's upper edge at the bottom. No full scarf triangle or body, no shoulders, arms, torso or paws. The bear faces directly forward, level head and warm friendly smile, identity closely matched to reference.
+Style/medium: same soft dimensional children's storybook character finish and fine painterly fluffy fur, warm caramel and cream, tactile mint scarf, soft sunny highlights. Keep features simple and readable when reduced to 256 pixels.
+Composition/framing: square icon canvas, centred head fills around 82 percent of canvas, both ears and hair tuft fully inside image with clear transparent margin, scarf upper edge at bottom, upright front view.
+Constraints: exact same character, head-only portrait, no body or paws. No text, letters, numbers, UI, buttons, card frame, background circle, badge, scenery, additional characters, logos or watermark. TRUE alpha transparency around head and scarf edge, no solid backdrop or checkerboard pixels.
+

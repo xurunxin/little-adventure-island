@@ -1,0 +1,247 @@
+[
+  {
+    "id": "custom-task",
+    "sha256": "7360E33D57FEFE7609E4CC12ADC4C985A5FABEFFB21909458185C23E01EE8AA8",
+    "speed": 0.92,
+    "voice": "Chinese (Mandarin)_Cute_Spirit",
+    "model": "speech-2.8-hd"
+  },
+  {
+    "id": "brush-morning",
+    "sha256": "0652DE86426155BAE831FFF98166FE13B5C99247DBEDC7690B0CE1FC9CC41AD3",
+    "speed": 0.92,
+    "voice": "Chinese (Mandarin)_Cute_Spirit",
+    "model": "speech-2.8-hd"
+  },
+  {
+    "id": "brush-night",
+    "sha256": "5B6F8B4282BAA4CF8CABD438D6B2B2AE406D67890316F7F80147E8B29F9736B4",
+    "speed": 0.92,
+    "voice": "Chinese (Mandarin)_Cute_Spirit",
+    "model": "speech-2.8-hd"
+  },
+  {
+    "id": "wash-hands",
+    "sha256": "DFA5E6832F7B424391F8822A7AD59EFCA627F976446262D915A4ACE94FAA03F1",
+    "speed": 0.92,
+    "voice": "Chinese (Mandarin)_Cute_Spirit",
+    "model": "speech-2.8-hd"
+  },
+  {
+    "id": "wear-shoes",
+    "sha256": "02FD4F3CDBF6CF93CF9F5FCCCC2BA428C37504444AB5D3B731775EB5A192A0EB",
+    "speed": 0.92,
+    "voice": "Chinese (Mandarin)_Cute_Spirit",
+    "model": "speech-2.8-hd"
+  },
+  {
+    "id": "laundry",
+    "sha256": "3DBBC8D9550C147F2EC051456CE50D9D4069DEA76D3255E365736A0001D6BB8C",
+    "speed": 0.92,
+    "voice": "Chinese (Mandarin)_Cute_Spirit",
+    "model": "speech-2.8-hd"
+  },
+  {
+    "id": "towel",
+    "sha256": "1A00D603F45DC0A7ADD90F1214066897F2F1EF5112C763B3FD7EA8D528683285",
+    "speed": 0.92,
+    "voice": "Chinese (Mandarin)_Cute_Spirit",
+    "model": "speech-2.8-hd"
+  },
+  {
+    "id": "tidy-toys",
+    "sha256": "F2F7FE0C18274722E9AA19A37DDD039810157E283F4610C972B2296C02C0E538",
+    "speed": 0.92,
+    "voice": "Chinese (Mandarin)_Cute_Spirit",
+    "model": "speech-2.8-hd"
+  },
+  {
+    "id": "sort-blocks",
+    "sha256": "64742EA1486E9DF64AAAE6A7D48B7B01F44659328F78DA8D26479623C937ED68",
+    "speed": 0.92,
+    "voice": "Chinese (Mandarin)_Cute_Spirit",
+    "model": "speech-2.8-hd"
+  },
+  {
+    "id": "books",
+    "sha256": "70C8EECDAB57F0CD650F66EDC5C65D8E08D60DBC6B59D32A9102BE5C838FA265",
+    "speed": 0.92,
+    "voice": "Chinese (Mandarin)_Cute_Spirit",
+    "model": "speech-2.8-hd"
+  },
+  {
+    "id": "tidy-shoes",
+    "sha256": "C82AB32166C158EC21BE86901F146BF8745BD4B96C26586AF97D9B37EFA82868",
+    "speed": 0.92,
+    "voice": "Chinese (Mandarin)_Cute_Spirit",
+    "model": "speech-2.8-hd"
+  },
+  {
+    "id": "wipe-table",
+    "sha256": "9F75305FB24CE21D074DDE0399A6174B93A35A551A8F67AEAF548998D9C856F2",
+    "speed": 0.92,
+    "voice": "Chinese (Mandarin)_Cute_Spirit",
+    "model": "speech-2.8-hd"
+  },
+  {
+    "id": "napkins",
+    "sha256": "0D8CF818B2830241339E32427D9B27D3549F89181B09F65FB934A95791493555",
+    "speed": 0.92,
+    "voice": "Chinese (Mandarin)_Cute_Spirit",
+    "model": "speech-2.8-hd"
+  },
+  {
+    "id": "read",
+    "sha256": "7E91F2CBC6EF179417D0809C7BBD2FE238CB6072FCF937A860CE7AAC91B75500",
+    "speed": 0.92,
+    "voice": "Chinese (Mandarin)_Cute_Spirit",
+    "model": "speech-2.8-hd"
+  },
+  {
+    "id": "draw",
+    "sha256": "A37FE23CDC0A4AF3EBE5FAA542CCA49058234950B675C6F9F991610AE1DF2D28",
+    "speed": 0.92,
+    "voice": "Chinese (Mandarin)_Cute_Spirit",
+    "model": "speech-2.8-hd"
+  },
+  {
+    "id": "puzzle",
+    "sha256": "9F1FDD12A29CFF4AD76F04128AF77277A188D50A4F9D3F2857F47F4FBE924AE5",
+    "speed": 0.92,
+    "voice": "Chinese (Mandarin)_Cute_Spirit",
+    "model": "speech-2.8-hd"
+  },
+  {
+    "id": "pencils",
+    "sha256": "151BE2CA2B9C3DC1BC916ADB73235753A7CAEF50B870B686FD73916DFAB5441A",
+    "speed": 0.92,
+    "voice": "Chinese (Mandarin)_Cute_Spirit",
+    "model": "speech-2.8-hd"
+  },
+  {
+    "id": "story",
+    "sha256": "9F4E0A9CE785670F1E8DFFD8C2A13A5AC3462E8FED0D501EAE71A00B5A097E51",
+    "speed": 0.92,
+    "voice": "Chinese (Mandarin)_Cute_Spirit",
+    "model": "speech-2.8-hd"
+  },
+  {
+    "id": "colors",
+    "sha256": "0202CB72131677BD4D1441BBAD72B6A56E6C49CFDA488B6166E46E375B4CA790",
+    "speed": 0.92,
+    "voice": "Chinese (Mandarin)_Cute_Spirit",
+    "model": "speech-2.8-hd"
+  },
+  {
+    "id": "outdoors",
+    "sha256": "2148C348670A4DBE68E5D612419CE8F49E9361D32AC035C0770257C061B407E3",
+    "speed": 0.92,
+    "voice": "Chinese (Mandarin)_Cute_Spirit",
+    "model": "speech-2.8-hd"
+  },
+  {
+    "id": "ball",
+    "sha256": "5DA4297FD3BED1CABD6B8E53CF3E100DC7E1F2C89112DE1E4A40B967AC181499",
+    "speed": 0.92,
+    "voice": "Chinese (Mandarin)_Cute_Spirit",
+    "model": "speech-2.8-hd"
+  },
+  {
+    "id": "stretch",
+    "sha256": "DB1845438E38137B9B542D140D0E17D1B62FDF79FE243A2B1E0C2EC1A3FD77C0",
+    "speed": 0.92,
+    "voice": "Chinese (Mandarin)_Cute_Spirit",
+    "model": "speech-2.8-hd"
+  },
+  {
+    "id": "sports",
+    "sha256": "394C7E26599867D8CA065A4D1999F5E95BE8D10458C356126C4C075F8CD13CA5",
+    "speed": 0.92,
+    "voice": "Chinese (Mandarin)_Cute_Spirit",
+    "model": "speech-2.8-hd"
+  },
+  {
+    "id": "water",
+    "sha256": "E1477463EB10AC479E266634889768C53B6B24BF768A80691AF745D0E23EF705",
+    "speed": 0.92,
+    "voice": "Chinese (Mandarin)_Cute_Spirit",
+    "model": "speech-2.8-hd"
+  },
+  {
+    "id": "bag",
+    "sha256": "C50F9851F4731A29EFC477F93DB4D8FEAE8874030F64AF7A4D2EF31DA8A394B7",
+    "speed": 0.92,
+    "voice": "Chinese (Mandarin)_Cute_Spirit",
+    "model": "speech-2.8-hd"
+  },
+  {
+    "id": "welcome",
+    "sha256": "8F990FC942D56450505E3198F0983C6E11A9190FB79B9AD8202C088A89388EBF",
+    "speed": 0.92,
+    "voice": "Chinese (Mandarin)_Cute_Spirit",
+    "model": "speech-2.8-hd"
+  },
+  {
+    "id": "choose-task",
+    "sha256": "F89063C6F38CFA827A8E4DB6E1F66F3CA159DA3B0E4BE1FEDFC483E87BD9C985",
+    "speed": 0.92,
+    "voice": "Chinese (Mandarin)_Cute_Spirit",
+    "model": "speech-2.8-hd"
+  },
+  {
+    "id": "task-claimed",
+    "sha256": "B4B9E2DF1B1A03E46033374E5C20E00752D6BB94A1917E88BB3C84D704CA07E7",
+    "speed": 0.92,
+    "voice": "Chinese (Mandarin)_Cute_Spirit",
+    "model": "speech-2.8-hd"
+  },
+  {
+    "id": "task-pending",
+    "sha256": "DD10FD732676423B6146656C492A0F16A856D2F7EE59B29FD27866D7E9593368",
+    "speed": 0.92,
+    "voice": "Chinese (Mandarin)_Cute_Spirit",
+    "model": "speech-2.8-hd"
+  },
+  {
+    "id": "task-approved",
+    "sha256": "4D15782DBEF0065AF49CEC68FCF89BD6BA933F8BEE60F1D9D99DEA246D9EDF81",
+    "speed": 0.92,
+    "voice": "Chinese (Mandarin)_Cute_Spirit",
+    "model": "speech-2.8-hd"
+  },
+  {
+    "id": "level-up",
+    "sha256": "74DCAA97840A95F678220C637BEAF8748075607C81A08BFFFA4B37E1D7CB7731",
+    "speed": 0.92,
+    "voice": "Chinese (Mandarin)_Cute_Spirit",
+    "model": "speech-2.8-hd"
+  },
+  {
+    "id": "reward-pending",
+    "sha256": "72B1D0E4AD23888F12FF145EE3A2203E99C7AC2A7CB588819C1880FC06108E6C",
+    "speed": 0.92,
+    "voice": "Chinese (Mandarin)_Cute_Spirit",
+    "model": "speech-2.8-hd"
+  },
+  {
+    "id": "reward-approved",
+    "sha256": "89E3FC7BB687BB257A7D39EEDEB61D61F81AA7C093E4B01403662E73F72D3943",
+    "speed": 0.92,
+    "voice": "Chinese (Mandarin)_Cute_Spirit",
+    "model": "speech-2.8-hd"
+  },
+  {
+    "id": "tasks",
+    "sha256": "8D393F2DCD9975729D62ACBD160F26D75480A1C553BC0EDFEE8A9F78A2B415F8",
+    "speed": 0.92,
+    "voice": "Chinese (Mandarin)_Cute_Spirit",
+    "model": "speech-2.8-hd"
+  },
+  {
+    "id": "partner",
+    "sha256": "6162322D032008A247F6879C8F607CD5C1F7649A2D4A7B08DDCC2DD73B7992D9",
+    "speed": 0.92,
+    "voice": "Chinese (Mandarin)_Cute_Spirit",
+    "model": "speech-2.8-hd"
+  }
+]

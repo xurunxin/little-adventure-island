@@ -1,0 +1,18 @@
+Built-in image_gen generated transparent star night-light growth-decoration sprite.
+Reference: design/selected-home.png
+Source: generated-images/01a11bac-1388-7d50-97ab-60662472cc6c/exec-9148b7dd-3349-4764-a909-c8ff625b07e2.png
+Destination: public/assets/decor/lamp.png
+Native source: 1254x1254 RGBA
+Final asset: 512x512 RGBA, high-quality bicubic resize preserving alpha via System.Drawing as explicitly requested.
+Visual QA: One softly glowing warm-yellow rounded five-point star night-light on a rounded oval wooden base and short support. Soft cream and brushed-wood picture-book materials. No face, text, wire, UI or backdrop. True transparency outside sprite, gentle alpha glow surrounding lamp.
+
+Final prompt:
+Use case: illustration-story
+Asset type: transparent star night-light growth-decoration sprite for a preschool storybook adventure-island app, final asset 512x512.
+Input images: Image 1 is selected warm dimensional picture-book style reference. Match its rounded golden points star and soft brushed wood materials.
+Primary request: ONE cute little warm-yellow star-shaped night light standing on a rounded light-wood base, isolated centrally on TRUE TRANSPARENT background. The lamp body is a soft plump FIVE-POINT star with smooth rounded tips, a gentle buttery-yellow glow and warm ivory centre, no face. A very short unobtrusive wooden support connects it to a small oval rounded wooden base. The base is tactile pale tan wood, stable and child-friendly. Soft faint warm glow around star only, not a large background halo.
+Style/medium: warm dimensional children's storybook illustration, soft hand-painted textures, satin lamp shell, softly brushed wood, rounded cosy forms, gentle cream and gold palette.
+Composition/framing: square sprite canvas, frontal slight elevated view, star upright with top point vertical, entire star/support/base visible with transparent margin; simple readable silhouette, one object.
+Lighting/mood: cosy calm warm night-light, soft illumination and gentle highlights, no intense glare.
+Constraints: no eyes, mouth, face, text, letters, numbers, labels, markings, UI, buttons, card frames, wire, plug, scenery, table surface, other decorations, characters, logos or watermark. Exactly one star lamp on one wood base. TRUE alpha transparency outside sprite, no solid backdrop or checkerboard pixels.
+

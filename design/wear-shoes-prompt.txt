@@ -1,0 +1,19 @@
+Built-in image_gen generated child putting on shoes task illustration.
+Reference: design/selected-home.png
+Source: generated-images/01a11bac-1388-7d50-97ab-60662472cc6c/exec-6a9f2db9-ccb1-4c76-8cf4-353e31c659cd.png
+Destination: public/assets/tasks/wear-shoes.png
+Requested layout: 640x640 square
+Actual native dimensions: 1254x1254 (copied without resampling)
+Visual QA: Consistent brown-haired boy in yellow stripes sits on low wooden stool and independently slides foot into blue velcro sneaker; matching other sneaker on mat beside him. Two hands and two feet, action clear. Sunny cream storybook entryway. No text, UI or card frame.
+
+Final prompt:
+Use case: illustration-story
+Asset type: square task illustration for a preschool child's offline Android reward-adventure app, target 640x640.
+Input images: Image 1 is the selected visual and character reference. Match the same friendly 4-and-a-half-year-old brown-haired boy with big dark eyes, rosy cheeks, yellow-and-white striped shirt and blue trousers.
+Primary request: ONE square illustration showing this boy independently putting on his own sneaker in a warm tidy home's entrance. He sits on a low rounded wooden stool, bends slightly forward, holds open the sneaker with both hands, and slides one foot into it. The other matching sneaker lies beside the stool. Use easy child-appropriate velcro sneakers with NO laces.
+Scene/backdrop: quiet sunny cream entryway, small light-wood shoe shelf in soft background, simple floor mat, warm neutral floor. No adults doing the work. Keep background secondary.
+Style/medium: match selected reference's sophisticated dimensional children's storybook art, soft hand-painted textures, rounded friendly shapes, tactile fabric and brushed wood, sunny pastel cream and aqua palette.
+Composition/framing: square medium-wide shot showing whole boy, stool, both shoes and clear hand-foot interaction; boy centred. The shoe action occupies lower centre, sufficiently large and visible to understand immediately. Natural anatomy, exactly two hands and two feet.
+Lighting/mood: soft morning daylight, calm proud smile, friendly self-care success.
+Constraints: illustration only, no UI, card frame, outer decorative border, words, letters, glyphs, numbers, signs, labels, buttons, counters, speech bubbles, logos or watermark. No animal companion.
+

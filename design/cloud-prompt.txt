@@ -1,0 +1,18 @@
+Mode: built-in image_gen
+Source file: generated-images/01a11bac-4c21-7351-80db-45c0b101f5fb/exec-68dcb94a-598a-42a2-82f4-3876bbf21efa.png
+Reference file: design/selected-home.png
+Destination: public/assets/cloud.png
+Transparent background: true
+Generated result: 1536 x 1024 RGBA.
+Asset processing: resized to 768 x 512 with Pillow LANCZOS; no semantic edits; alpha preserved.
+
+Final prompt:
+Use case: stylized-concept
+Asset type: transparent floating cloud layer for a bright preschool adventure-island app.
+Input image: design/selected-home.png is the bright cheerful island sky and dimensional children's picture-book style reference only. Do not reproduce the island or UI.
+Primary request: exactly TWO small soft puffy white clouds, one slightly larger on the left and one slightly smaller on the right, separated by a clear transparent gap. Friendly rounded fluffy cloud lobes, bright white tops, very subtle warm cream shading underneath. Match the light and softness of the reference's sunny island sky.
+Composition: horizontal 768x512 canvas, both cloud shapes completely visible with generous transparent margins. Clouds centered vertically, the right one slightly higher than the left, each cloud with a gently flattened underside and rounded top silhouette, suitable for slow horizontal sky-layer movement.
+Style: soft dimensional children's picture-book illustration, airy clean white volume, gently painted shading, restrained soft texture, bright calm sunny mood.
+Background: genuinely transparent alpha, clouds only. No blue sky rectangle, no scenery, no island, no ground, no cloud shadow on a surface, no sun, rain, stars, faces, eyes, mouth, animals, people, text, UI, logo, frame or watermark.
+Constraints: exactly two distinct clouds, no extra objects, no sprite sheet.
+

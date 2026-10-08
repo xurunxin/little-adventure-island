@@ -1,0 +1,18 @@
+Mode: built-in image_gen
+Source file: generated-images/01a11bac-4c21-7351-80db-45c0b101f5fb/exec-f418fc62-2d82-44bc-bb8f-623f06deae97.png
+Reference file: public/assets/pets/fox.png
+Destination: public/assets/decor/hat.png
+Transparent background: true
+Generated result: 1254 x 1254 RGBA.
+Asset processing: resized to 512 x 512 with Pillow LANCZOS; no semantic edits; alpha preserved.
+
+Final prompt:
+Use case: stylized-concept
+Asset type: transparent accessory overlay for a preschool app animal companion.
+Input image: public/assets/pets/fox.png is an art-style and scarf palette reference only. Do not include the fox.
+Primary request: exactly one adorable rounded little explorer straw hat, warm golden-yellow straw, short softly rounded crown and broad smooth oval brim. A mint-green ribbon band around the crown decorated with tiny white leaf patterns matching the companion scarf.
+Style: polished dimensional children's picture-book asset, soft handmade straw texture, rounded toddler-friendly forms, warm gentle lighting, smooth painted shading.
+Composition: square 512x512 pixel canvas, centered complete hat seen from the front and slightly from above. Hat brim and crown entirely visible with clear transparent margins. Designed to overlay on an animal companion forehead; lower brim should be a clean broad shallow curve.
+Background: genuinely transparent alpha, isolated hat only. No background, ground, ground shadow, other objects, character, person, UI, text, logo or watermark.
+Constraints: one standalone hat accessory, no animal, no sprite sheet, no duplicates.
+

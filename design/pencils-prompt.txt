@@ -1,0 +1,18 @@
+Mode: built-in image_gen
+Source file: generated-images/01a11bac-4c21-7351-80db-45c0b101f5fb/exec-d0c471c1-7f08-468c-8b70-b812029a8c35.png
+Reference files: public/assets/tasks/tidy-shoes.png; public/assets/tasks/books.png
+Destination: public/assets/tasks/pencils.png
+Transparent background: false
+Generated result: 1254 x 1254 RGB.
+Asset processing: resized to 640 x 640 with Pillow LANCZOS; no semantic edits; fully opaque RGB.
+
+Final prompt:
+Use case: illustration-story
+Asset type: opaque square task-card illustration for a preschool children's task app: tidying drawing tools.
+Input image 1: public/assets/tasks/tidy-shoes.png is the exact brown-haired preschool boy identity and clothing reference. Input image 2: public/assets/tasks/books.png is the established dimensional children's picture-book illustration style reference.
+Primary request: the same adorable brown-haired 4-and-a-half-year-old boy in a yellow-and-cream striped T-shirt and blue trousers, smiling as he tidies his drawing area at a little wooden table. One hand is clearly putting a few colorful drawing pencils into a mint-green pencil cup, with their tops visibly entering the cup. His other hand is gently aligning a neat stack of white drawing paper beside the cup. The top sheet shows a simple cheerful crayon drawing of a sun and tree, without writing. The cup already contains a few red, yellow, blue and green drawing pencils.
+Scene: cozy cream-colored family room, low honey-wood table, warm sunlight and softly blurred simple bookshelf in the background. Clean uncluttered drawing area so the tidy pencil cup and aligned paper stack are immediately understandable.
+Composition: 640x640 square full-bleed illustration, boy's head and both hands prominent and complete, cup and paper stack large in the lower foreground, slightly elevated three-quarter viewpoint to show the two sorting actions clearly.
+Style: match the exact rosy-cheeked rounded child, large friendly dark eyes, warm brown hair, dimensional soft children's storybook rendering, subtle fabric and wood textures, cream home colors and warm gentle sunlight.
+Constraints: opaque filled background; one child; no text, letters, numbers, UI, borders, frame or watermark. Do not add extra activities.
+

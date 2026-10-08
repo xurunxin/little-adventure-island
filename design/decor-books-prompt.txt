@@ -1,0 +1,18 @@
+Mode: built-in image_gen
+Source file: generated-images/01a11bac-4c21-7351-80db-45c0b101f5fb/exec-2c9a90b6-1ae7-45c1-8e72-8b1b884d269e.png
+Reference files: public/assets/pets/fox.png; public/assets/tasks/books.png
+Destination: public/assets/decor/books.png
+Transparent background: true
+Generated result: 1254 x 1254 RGBA.
+Asset processing: resized to 512 x 512 with Pillow LANCZOS; no semantic edits; alpha preserved.
+
+Final prompt:
+Use case: stylized-concept
+Asset type: a single transparent growth decoration for a preschool app island: a little picture-book reading corner.
+Input image 1: public/assets/pets/fox.png is the soft dimensional children's picture-book world style reference only. Input image 2: public/assets/tasks/books.png is the rounded warm-wood bookshelf and pastel picture-book material reference only. Do not include any characters or room background.
+Primary request: a small adorable honey-wood bookshelf with smooth rounded corners and two low shelves containing several colorful children's picture books. Pastel mint, sky blue, warm yellow and soft coral book covers, some facing outward with simple painted tree or bunny illustrations and no lettering. Beside the bookshelf to its right is one small soft cream-and-mint rounded reading mat, inviting and cozy. Together they form one compact reading-corner decoration for an island growth scene.
+Style: polished dimensional children's picture-book prop, rounded toddler-friendly forms, warm gentle light, subtle wood grain, soft fabric mat texture and smooth painted shading.
+Composition: square 512x512 canvas, centered compact object group, front view at a gentle three-quarter angle from slightly above. Bookshelf and entire mat completely visible with transparent margins.
+Background: genuinely transparent alpha, isolated prop group only. No room, no island scenery, no ground plane, no ground shadow, no animal, no person, no furniture beyond the bookshelf and mat, no UI, text, letters, numbers, logo or watermark.
+Constraints: one compact bookshelf-and-mat decoration, no duplicate scenes or sprite sheet.
+

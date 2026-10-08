@@ -1,0 +1,18 @@
+Built-in image_gen generated transparent miniature island navigation icon.
+Reference: design/selected-home.png (bottom-left island icon)
+Source: generated-images/01a11bac-1388-7d50-97ab-60662472cc6c/exec-47460d84-5fe4-4dae-b62b-c0d8ce084edb.png
+Destination: public/assets/nav-island.png
+Requested layout: 512x512 square
+Actual native dimensions: 1254x1254 (copied without resampling)
+Alpha verification: Format32bppArgb, corner alpha 0; native generated softness includes semi-transparent paint edge and some interior pixels (centre alpha 147). Transparency preserved as delivered by image_gen.
+Visual QA: Centred soft green grass and warm sandy island, one leaning palm tree, blue circular water ring, clear silhouette. No text, UI, card or button panel.
+
+Final prompt:
+Use case: illustration-story
+Asset type: single transparent raster navigation icon for a preschool storybook Android app, target 512x512.
+Input images: Image 1 is the selected art reference. Match the little island icon at bottom-left of the reference navigation, but generate only its island, palm tree and water.
+Primary request: ONE cute miniature island icon isolated centred on TRUE TRANSPARENT background. A small rounded sandy-earth island topped with lush soft green grass, one friendly leaning palm tree with textured tan-brown trunk and rounded green palm leaves, surrounded by a compact bright light-blue circular ripple of water. The entire island and tree must be comfortably inside the canvas with clear transparent margin.
+Style/medium: warm dimensional children's storybook illustration, soft hand-painted texture, rounded tactile forms, clean readable silhouette, gentle green, aqua and warm tan palette, softly lit.
+Composition/framing: square centred icon, mild elevated frontal view, roughly same relative geometry as the reference's little island navigation icon. One palm tree only, single compact island, water circle part of icon.
+Constraints: no button background, no rectangle, no cream panel, no outer card frame, no words, labels, numbers, UI, speech bubbles, characters, animals, other scenery, logos or watermark. TRUE alpha transparency surrounding the island, tree and blue water ring. No white or coloured backdrop and no checkerboard pixels.
+

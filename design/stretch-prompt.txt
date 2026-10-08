@@ -1,0 +1,10 @@
+Built-in image_gen generation. References: app/public/assets/tasks/wash-hands.png, app/public/assets/tasks/outdoors.png.
+Original output: generated-images/01a11bac-8207-7d53-a6a1-52492543fd48/exec-400c02f3-6fee-48b9-a489-7947fcb96fb4.png
+Final asset: app/public/assets/tasks/stretch.png (640 x 640; high-quality bicubic size normalization; no crop)
+
+Use case: illustration-story
+Asset type: standalone opaque square task illustration for a preschool Android app, desired final size 640 by 640 pixels.
+Input images: wash-hands.png is same-child identity and style reference. outdoors.png is same mother identity and park reference. Create a different stretching activity.
+Primary request: one complete square illustration showing the same cheerful round-faced 4.5-year-old Chinese boy with tousled brown hair, blue-and-white short-sleeve shirt, blue trousers and small sneakers, standing on flat green grass next to his mother and copying her simple gentle stretching pose. Both extend their arms straight out sideways at shoulder height, feet comfortably apart on the ground, relaxed and smiling. Mother with shoulder-length brown hair, pale pink blouse and blue trousers looks encouragingly toward him. Show both full figures and all hands, legs, feet with clear easy posture, child's arms prominent. The action of following mother to stretch must be instantly understood. Soft safe park lawn with rounded trees and gentle daylight, uncluttered background.
+Style: exactly references' warm dimensional children's picture-book style, soft hand-painted tactile textures, rounded forms, gentle cream and soft green palette.
+Constraints: one full square opaque finished illustration, no card frame, no border, no rounded crop, no text, no labels, no buttons, no stars, no UI, no screenshot or collage, no extra people. Preserve child and mother identity. No difficult yoga pose, no bending or balancing, just easy arm extension.

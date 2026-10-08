@@ -1,0 +1,18 @@
+Built-in image_gen generated transparent yellow potted flower growth-decoration sprite.
+Reference: design/selected-home.png
+Source: generated-images/01a11bac-1388-7d50-97ab-60662472cc6c/exec-8501bd0c-dca4-4b33-9f58-055afc0a9de0.png
+Destination: public/assets/decor/flower.png
+Native source: 1254x1254 RGBA
+Final asset: 512x512 RGBA, high-quality bicubic resize preserving alpha via System.Drawing as explicitly requested.
+Visual QA: Single bright yellow five-petalled flower in rounded terracotta pot, exactly two green leaves and visible soil. No face, text, UI or backdrop. Dimensional hand-painted texture and warm color consistent with selected reference. True transparency outside sprite.
+
+Final prompt:
+Use case: illustration-story
+Asset type: transparent home-growth decoration sprite for a preschool storybook app, final asset 512x512.
+Input images: Image 1 is selected warm dimensional storybook style reference. Match its lush rounded garden flowers and soft painted terracotta materials.
+Primary request: ONE cute small flower growing in a rounded terracotta clay pot, isolated centrally on TRUE TRANSPARENT background. A single bright warm-yellow flower with plump rounded petals and soft honey-yellow centre on a short friendly green stem, exactly two small fresh green leaves. The warm peachy terracotta pot is smooth and tactile with gently rounded rim and small visible dark-brown soil surface. No face on the plant or pot.
+Style/medium: soft warm dimensional children's picture-book illustration, subtle hand-painted textures, rounded cheerful natural forms, pastel peach clay and fresh green leaves, bright buttery-yellow blossom, gentle depth and highlights.
+Composition/framing: square canvas, front-facing small plant centrally placed, whole pot and blossom visible with transparent margins, plant fills roughly 75 percent of height; clean simple readable silhouette.
+Lighting/mood: soft sunny light, welcoming cheerful new garden decoration.
+Constraints: exactly one pot, one yellow flower and two leaves. No text, eyes, mouth, face, letters, numbers, labels, UI, buttons, card frame, surrounding scene, grass platform, characters, logos or watermark. True alpha transparency outside the plant and pot, no colored backdrop, table or checkerboard pixels.
+

@@ -1,0 +1,9 @@
+Built-in image_gen generation. References: app/public/assets/tasks/wash-hands.png, app/design/selected-home.png.
+Original output: generated-images/01a11bac-8207-7d53-a6a1-52492543fd48/exec-4e7084c7-7801-4d8d-b7f7-6b5d08f75fab.png
+Final asset: app/public/assets/tasks/wipe-table.png (640 x 640; high-quality bicubic size normalization; no crop)
+
+Use case: illustration-story
+Asset type: standalone opaque square task illustration for a preschool Android app, desired final size 640 by 640 pixels.
+Input images: wash-hands.png is same-child identity and rendering reference; selected-home.png is overall warm illustration style reference. Do not reproduce app UI.
+Primary request: one complete square illustration of the same cheerful round-faced 4.5-year-old Chinese boy with tousled brown hair, blue short-sleeve shirt with white cuffs and blue trousers, wiping his own low child-sized pale wooden table with a small pale blue cleaning cloth. His right hand presses the cloth against the tabletop in a clear wiping motion while the other hand steadies the edge. The cloth and hand should be large and prominent on the table. A few tiny crumbs beside the wiped clean area make the purpose understandable, but no exaggerated dirt or mess. Boy stands beside the table and smiles. Cozy cream home room with pale wood furniture and gentle sunshine, softly simplified background. Match references' warm dimensional children's picture-book style, soft hand-painted tactile textures, rounded forms and pale cream palette.
+Constraints: one full square opaque finished illustration, no card frame, no border, no rounded crop, no text, no labels, no buttons, no stars, no UI, no screenshot or collage, no extra people. Preserve same child identity and age. Wiping action clearly visible.

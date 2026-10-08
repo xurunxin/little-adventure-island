@@ -1,0 +1,18 @@
+Mode: built-in image_gen
+Source file: generated-images/01a11bac-4c21-7351-80db-45c0b101f5fb/exec-3f8eb204-9124-4537-9776-927994a11cb5.png
+Reference files: public/assets/pets/fox.png; public/assets/pets/rabbit.png
+Destination: public/assets/pets/bear.png
+Transparent background: true
+Result: 1161 x 1355 RGBA; original generated alpha preserved. Visible bbox at alpha > 100: (109, 51, 1088, 1320).
+
+Final prompt:
+Use case: stylized-concept
+Asset type: one transparent light-brown bear companion cutout for a preschool Android tablet app.
+Input image 1: public/assets/pets/fox.png is the companion art style, head/body proportions, canvas and baseline reference. Input image 2: public/assets/pets/rabbit.png is a companion style reference.
+Primary request: one adorable round light-brown teddy-bear animal companion, sitting upright and mostly frontal with a slight three-quarter angle. Both big friendly dark-brown eyes open, a cheerful gentle smile. Rounded plush ears, soft warm light-caramel brown fur, cream muzzle and small cream chest patch, tiny dark cocoa nose, soft rounded paws and visible complete feet.
+Costume: the same mint-green triangular scarf with small white leaf patterns and a simple knot with scarf end on the right as the fox and rabbit.
+Style: match the references' soft fluffy fur, polished dimensional children's picture-book appearance, toddler-friendly rounded features, warm soft daylight, fine short fur texture and smooth painted shading.
+Composition: portrait canvas about 1161x1355 pixels, full-body bear centered, preserve useful clear transparent margins around ears, paws and body. Feet near the same bottom baseline as the reference companions, around y=1300. Both ears and all paws complete, nothing cropped.
+Background: genuinely transparent alpha, clean cutout. No ground, no ground shadow, no scenery, no props, no UI, no text, no speech bubble, no watermark.
+Constraints: exactly one bear, independent character asset, no sprite sheet, no duplicate characters. Only accessory is the leaf-pattern mint scarf.
+

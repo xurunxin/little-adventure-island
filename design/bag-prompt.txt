@@ -1,0 +1,18 @@
+Mode: built-in image_gen
+Source file: generated-images/01a11bac-4c21-7351-80db-45c0b101f5fb/exec-898262c2-4885-4205-ba9e-940b4437eddf.png
+Reference file: public/assets/pets/fox.png
+Destination: public/assets/decor/bag.png
+Transparent background: true
+Generated result: 1254 x 1254 RGBA.
+Asset processing: resized to 512 x 512 with Pillow LANCZOS; no semantic edits; alpha preserved.
+
+Final prompt:
+Use case: stylized-concept
+Asset type: a single transparent adventure backpack prop for a preschool app animal companion.
+Input image: public/assets/pets/fox.png is an art-style and mint palette reference only. Do not include the animal.
+Primary request: one adorable small mint-green explorer backpack, rounded soft rectangular body with a rounded flap, a warm golden clasp and tiny golden strap buckles, tasteful small white leaf decoration on the flap and front pocket. A soft short carry handle on top and one subtle side pocket. The bag is designed to sit to the animal companion's right.
+Style: polished dimensional children's picture-book asset, soft padded woven fabric texture, rounded toddler-friendly forms, warm gentle lighting and smooth painted shading; match the companion scarf palette.
+Composition: square 512x512 pixel canvas, isolated complete bag centered, front view with a slight three-quarter angle showing its right side and depth. Entire handle, body, straps and bottom visible, clear transparent margins.
+Background: genuinely transparent alpha. No background, ground, ground shadow, other objects, animal, person, UI, text, logo or watermark.
+Constraints: exactly one standalone backpack, no sprite sheet, no duplicates, no character.
+

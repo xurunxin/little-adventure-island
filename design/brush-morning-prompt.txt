@@ -1,0 +1,9 @@
+Built-in image_gen generation. References: app/design/selected-home.png, app/public/assets/tasks/wash-hands.png.
+Original output: generated-images/01a11bac-8207-7d53-a6a1-52492543fd48/exec-b5420768-05ce-4744-8c80-531a0025e356.png
+Final asset: app/public/assets/tasks/brush-morning.png (640 x 640; high-quality bicubic size normalization; no crop)
+
+Use case: illustration-story
+Asset type: standalone opaque square task illustration for a preschool Android app, desired final size 640 by 640 pixels.
+Input images: selected-home.png is warm picture-book style reference only. wash-hands.png is the child's identity, blue-and-white shirt, bathroom and rendering reference. Do not reproduce app interface or the washing-hands action.
+Primary request: one complete square illustration of the SAME cheerful round-faced 4.5-year-old Chinese boy with tousled brown hair and blue short-sleeve shirt with white sleeve cuffs, brushing his teeth at a low child-sized bathroom sink in the morning. Show the toothbrush held in his hand and touching his front teeth with a small clear amount of white toothpaste foam around his smiling mouth, the brushing action instantly understandable. His other hand rests near the sink. A small cup sits nearby. Use a softly simplified cream-white bathroom with warm morning sunlight from a window, blue towel and softly painted pale background. Frame him from the waist up, with head, toothbrush, brushing hand and sink fully visible. Match the reference exactly in warm dimensional children's picture-book style, soft hand-painted textures, rounded forms, pale cream colors and gentle daylight.
+Constraints: full square opaque finished illustration, no card frame, no border, no rounded crop, no text, no labels, no buttons, no stars, no UI, no screenshot or collage, no extra people. Preserve same child identity and age. The toothbrush must be clearly visible at his mouth.

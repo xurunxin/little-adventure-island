@@ -1,0 +1,9 @@
+Built-in image_gen generation. References: app/public/assets/tasks/wash-hands.png, app/public/assets/tasks/outdoors.png.
+Original output: generated-images/01a11bac-8207-7d53-a6a1-52492543fd48/exec-224faf72-d0be-46fd-9618-f69b3e480b82.png
+Final asset: app/public/assets/tasks/ball.png (640 x 640; high-quality bicubic size normalization; no crop)
+
+Use case: illustration-story
+Asset type: standalone opaque square task illustration for a preschool Android app, desired final size 640 by 640 pixels.
+Input images: wash-hands.png is same-child identity and rendering reference. outdoors.png is park setting and soft daylight reference. Create only boy playing ball, no mother in foreground.
+Primary request: one complete square illustration of the same cheerful round-faced 4.5-year-old Chinese boy with tousled brown hair, blue short-sleeve shirt with white cuffs, blue trousers and small sneakers, happily playing with a soft round colorful ball on safe flat green grass. Show full boy in an unmistakable gently kicking pose, one foot near the ball and arms relaxed for balance, laughing and looking at the ball. The ball is large, rounded, red-yellow-blue panels and prominently visible in the foreground. Gentle grassy park with rounded trees, a few tiny flowers, no road or hazards. Warm daylight and softly simplified cream-and-green background. Match reference warm dimensional children's picture-book style, softly hand-painted tactile textures, rounded forms and gentle cream palette.
+Constraints: one full square opaque finished illustration, no card frame, no border, no rounded crop, no text, no labels, no buttons, no stars, no UI, no screenshot or collage, no extra people. Preserve same child's identity and age. Ball playing action must be clear.

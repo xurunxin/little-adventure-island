@@ -1,0 +1,17 @@
+Mode: built-in image_gen
+Source file: generated-images/01a11bac-4c21-7351-80db-45c0b101f5fb/exec-493958d6-9dc5-4799-8834-4063905865bc.png
+Edit reference: public/assets/pets/bear.png
+Destination: public/assets/pets/bear-happy.png
+Transparent background: true
+Result: 1161 x 1355 RGBA; original generated alpha preserved. Visible bbox at alpha > 100: (107, 48, 1094, 1323).
+
+Final prompt:
+Use case: precise-object-edit
+Asset type: transparent happy-state light-brown bear companion for a preschool Android tablet app.
+Input image: public/assets/pets/bear.png is the edit target and exact character identity reference.
+Primary request: change only the bear's expression and one front paw gesture to joyous celebration. Both eyes closed in curved happy crescent smiles, mouth open with a delighted laugh, one front paw gently raised beside its cheek. Keep the original seated pose.
+Invariants: preserve the exact light-caramel bear identity, rounded ears with cream interiors, cream muzzle and chest, small cocoa nose, cheek shape, forehead tuft, short soft fluffy fur, head-to-body proportions, complete feet with paw pads and original portrait framing. Preserve the mint-green triangular scarf with small white leaf patterns, side knot and scarf end unchanged.
+Composition: match the original 1161x1355 portrait canvas and character size, centered full body, complete ears and paws, foot baseline near y=1320.
+Background: genuinely transparent alpha. No ground, ground shadow, scenery, props, confetti, UI, text, speech bubble or watermark.
+Constraints: one independent bear, no sprite sheet or duplicates. Change only the facial expression and single front paw gesture, everything else unchanged.
+

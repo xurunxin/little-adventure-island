@@ -1,0 +1,19 @@
+Built-in image_gen generated physical animal stickers reward illustration.
+Reference: design/selected-home.png
+Source: generated-images/01a11bac-1388-7d50-97ab-60662472cc6c/exec-b6017dc0-0445-4be5-b3a5-8066a22092f5.png
+Destination: public/assets/rewards/stickers.png
+Requested layout: 640x640 square
+Actual native dimensions: 1254x1254 (copied without resampling)
+Opacity verification: corner alpha 255, opaque cream background.
+Visual QA: Exactly three white-bordered die-cut stickers: orange fox with mint scarf, white pink-eared bunny and caramel bear. All recognizable, gently overlapping on cream tabletop. Warm dimensional hand-painted texture, no text or UI.
+
+Final prompt:
+Use case: illustration-story
+Asset type: square real-life reward illustration for a preschool child's storybook Android app, target 640x640.
+Input images: Image 1 is selected style reference. Match its warm dimensional soft hand-painted finish and cute rounded animal style.
+Primary request: ONE square illustration showing THREE adorable colorful physical animal stickers with thick clean white die-cut borders: one smiling orange fox, one soft white bunny with pink ears, one caramel-brown little bear. The three stickers are grouped on a pale ivory cream tabletop, lightly overlapping but all three animals distinctly readable. The stickers depict friendly animal heads with small rounded shoulders, no full scene inside them. Give the orange fox a tiny mint-green neckerchief consistent with reference companion.
+Style/medium: soft dimensional children's storybook sticker art, warm pastel orange, mint, cream, pink and honey-brown, rounded faces with dark eyes, subtle tactile paper and delicate cast shadows.
+Composition/framing: square close-up arrangement, fox slightly forward left, bunny upper right, bear lower right; entire sticker edges visible, objects fill most of image with relaxed cream margin.
+Lighting/mood: soft sunny daylight, inviting cheerful reward.
+Constraints: exactly three stickers: fox, bunny, bear. Opaque soft cream background. No child, adults, hands, text, letters, numbers, labels, currency, UI, buttons, card frames, speech bubbles, product packaging, logos or watermark.
+

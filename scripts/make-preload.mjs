@@ -1,0 +1,2 @@
+import {readFile,readdir,writeFile} from 'node:fs/promises';
+const images=JSON.parse(await readFile('design/art-manifest.json','utf8'));const atlases=(await readdir('public/assets/atlases')).filter(name=>name.endsWith('.png')).map(name=>`/assets/atlases/${name}`);await writeFile('public/assets/preload.json',JSON.stringify({images:[...images.map(item=>`/assets/${item.runtime}`),...atlases]},null,2));console.log('Prepared image preload manifest.');

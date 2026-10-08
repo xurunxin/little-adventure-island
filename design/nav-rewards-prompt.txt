@@ -1,0 +1,18 @@
+Built-in image_gen generated transparent golden gift reward navigation icon.
+Reference: design/selected-home.png (bottom reward navigation icon)
+Source: generated-images/01a11bac-1388-7d50-97ab-60662472cc6c/exec-d1350524-1e8c-4482-aeba-73625c0dc5a2.png
+Destination: public/assets/nav-rewards.png
+Requested layout: 512x512 square
+Actual native dimensions: 1254x1254 (copied without resampling)
+Alpha verification: Format32bppArgb, corner alpha 0, centre alpha 253. Native transparency and painted softness preserved.
+Visual QA: One rounded golden gift box with warm red crossed ribbon and large red bow, three-quarter view, soft hand-painted dimensional material. No text, surrounding button panel or extra objects.
+
+Final prompt:
+Use case: illustration-story
+Asset type: single transparent raster reward navigation icon for a preschool children's storybook app, target 512x512.
+Input images: Image 1 is selected art reference. Match the small gift icon in bottom reward navigation.
+Primary request: ONE cute closed gift box, isolated centrally on TRUE TRANSPARENT background. A plump rounded golden-yellow cube gift box with a slightly overhanging lid, wrapped with bright warm red ribbon crossing front and top, tied into a large soft rounded red bow on top. No additional gift boxes or objects.
+Style/medium: warm dimensional children's picture-book illustration, subtle soft hand-painted texture, rounded tactile shape, soft glossy highlights, warm yellow and coral-red tones, gentle shadows.
+Composition/framing: square icon canvas, gift shown at mild three-quarter elevated frontal view similar to the reference, central with generous clear transparent margins, bow and corners fully inside frame. Keep readable silhouette when small.
+Constraints: no button background or cream panel, no surrounding circle, no text, letters, labels, numbers, UI, counters, speech bubbles, card frame, characters, scenery, logos or watermark. TRUE alpha transparency around object, no solid backdrop and no checkerboard pixels.
+

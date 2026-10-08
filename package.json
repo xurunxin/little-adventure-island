@@ -1,0 +1,44 @@
+{
+  "name": "little-adventure-island",
+  "version": "1.0.2",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build && node scripts/prepare-sites-build.mjs && pwsh.exe -NoProfile -File scripts/trim-build.ps1",
+    "test": "node --import tsx --test tests/*.test.ts",
+    "android:sync": "npm run build && cap sync android",
+    "android:debug": "npm run android:sync && pwsh.exe -NoProfile -Command ./android/gradlew.bat -p android assembleDebug",
+    "assets:prepare": "node --import tsx scripts/prepare-assets.ts",
+    "audio:generate": "pwsh.exe -NoProfile -File scripts/build-mmx-audio.ps1",
+    "ai:import": "node scripts/import-minimax-key.mjs",
+    "preview": "vite preview",
+    "test:sites": "node --test tests/sites-worker.test.mjs"
+  },
+  "dependencies": {
+    "@capacitor-community/sqlite": "^8.1.1",
+    "@capacitor/android": "^8.5.3",
+    "@capacitor/app": "^8.1.2",
+    "@capacitor/core": "^8.5.3",
+    "@capacitor/filesystem": "^8.1.4",
+    "@capacitor/share": "^8.0.3",
+    "@phosphor-icons/react": "^2.1.10",
+    "@vitejs/plugin-react": "5.0.4",
+    "pixi.js": "^8.22.0",
+    "react": "19.2.0",
+    "react-dom": "19.2.0",
+    "sql.js": "^1.14.2",
+    "vite": "6.4.2",
+    "zod": "^4.6.5"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^8.5.3",
+    "@types/node": "^26.6.4",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@types/sql.js": "^1.4.11",
+    "sharp": "^0.35.5",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  }
+}

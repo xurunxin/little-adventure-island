@@ -1,0 +1,9 @@
+Built-in image_gen generation. Reference: app/design/selected-home.png, first task illustration.
+Original output: generated-images/01a11bac-8207-7d53-a6a1-52492543fd48/exec-d7ee60aa-52ce-42aa-b091-765c1f869437.png
+Final asset: app/public/assets/tasks/wash-hands.png (640 x 640; high-quality bicubic size normalization; no crop)
+
+Use case: illustration-story
+Asset type: standalone square task illustration for a preschool Android app, final image 640 by 640 pixels.
+Input image: reference only; use the first task illustration (the boy washing his hands) from the provided selected-home image as style and character reference. Do not reproduce the interface.
+Primary request: create one complete independent square illustration of a round-faced 4.5-year-old Chinese boy washing his hands at a low child-sized sink. Brown tousled hair, cheerful face, blue short-sleeve shirt with white sleeve cuffs, both hands clearly together under the running tap, visible soap bubbles and water stream. Match the reference child closely and the exact warm dimensional children's picture-book style, soft hand-painted textures, gently rounded forms, soft daylight, pale cream colors and warm cream-white bathroom. Framing shows boy from the chest up and sink basin; the hand-washing action is central, large, instantly understandable. A blue towel and simple soap dispenser may sit nearby, subtle uncluttered bathroom background.
+Constraints: standalone illustration fills the full square, no card frame, no border, no rounded crop, no text, no buttons, no stars, no UI, no collage, no screenshot, no extra people. Finished painting with opaque background.

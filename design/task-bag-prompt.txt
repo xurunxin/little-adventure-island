@@ -1,0 +1,19 @@
+Mode: built-in image_gen
+Source file: generated-images/01a11bac-4c21-7351-80db-45c0b101f5fb/exec-6a5a7c87-d686-48d5-8977-f6f5f30c9188.png
+Reference files: public/assets/tasks/tidy-shoes.png; public/assets/tasks/outdoors.png
+Destination: public/assets/tasks/bag.png
+Transparent background: false
+Generated result: 1254 x 1254 RGB.
+Asset processing: resized to 640 x 640 with Pillow LANCZOS; no semantic edits; fully opaque RGB.
+
+Final prompt:
+Use case: illustration-story
+Asset type: opaque square task-card illustration for a preschool children's task app: packing a little outing backpack with Dad.
+Input image 1: public/assets/tasks/tidy-shoes.png is the exact brown-haired 4-and-a-half-year-old Chinese boy identity and yellow-and-cream striped shirt reference. Input image 2: public/assets/tasks/outdoors.png is the warm rounded family character style and parent-child proportions reference, not a reference for the adult's identity; this new scene features the father, not the mother.
+Primary request: the same adorable boy, wearing his yellow-and-cream striped T-shirt and blue trousers, together with his father in their cozy home entryway, packing a small open mint-green backpack for an outing. The boy is clearly lowering a small blue reusable water bottle into the backpack. Dad is gently placing a small neatly folded cream-white towel beside the bottle, while keeping the backpack open with his other hand. Both smile and look at the bag. The towel, bottle, backpack opening and each person's helping hand must be clearly visible.
+Father: warm friendly young Chinese dad with short brown hair, rounded gentle face, simple pale mint shirt and blue trousers, crouching at the child's height beside him.
+Scene: warm cream-colored family entryway with a low wooden bench, soft plants and morning sunlight. The open backpack sits on the low bench between the boy and Dad, foreground uncluttered.
+Composition: 640x640 square full-bleed illustration, boy on the left and crouching Dad on the right, complete faces and relevant hands, backpack and contents large in the lower center, slightly elevated three-quarter view to show the packing action.
+Style: match the established rosy-cheeked rounded family characters, friendly dark eyes, soft dimensional children's storybook rendering, gentle fabric texture, creamy colors and warm daylight.
+Constraints: opaque soft filled background, exactly one father and one preschool boy. No text, letters, numbers, UI, border, frame, logos or watermark. Focus only on packing the towel and water bottle into the backpack.
+

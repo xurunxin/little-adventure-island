@@ -1,0 +1,18 @@
+Built-in image_gen generated transparent task clipboard navigation icon.
+Reference: design/selected-home.png (bottom task navigation icon)
+Source: generated-images/01a11bac-1388-7d50-97ab-60662472cc6c/exec-f538194d-a75b-4c43-9c2f-0243898ae3a8.png
+Destination: public/assets/nav-tasks.png
+Requested layout: 512x512 square
+Actual native dimensions: 1254x1254 (copied without resampling)
+Alpha verification: Format32bppArgb, corner alpha 0, centre alpha 253. Native transparency and painted softness preserved.
+Visual QA: Rounded wooden clipboard, cream paper, blue top clip, one clear green checkmark and exactly two short green lines. Centred, no button panel or readable text.
+
+Final prompt:
+Use case: illustration-story
+Asset type: single transparent raster navigation icon for preschool storybook task app, target 512x512.
+Input images: Image 1 is the selected art reference. Match the overall softness and dimensional craftsmanship of the clipboard task icon in bottom navigation.
+Primary request: ONE cute compact upright clipboard icon isolated centrally on TRUE TRANSPARENT background. A warm light-wood rounded clipboard holds a small soft ivory cream paper page. A rounded light-blue metal top clip holds the page. The paper contains ONLY one large clear soft-green checkmark near centre and two small soft-green short horizontal lines below, no readable characters or words.
+Style/medium: warm dimensional children's picture-book illustration, soft hand-painted texture, tactile brushed wooden rim, delicate cream paper, friendly rounded silhouette, subtle gentle shadows.
+Composition/framing: square icon, frontal with a tiny natural dimensional angle at most, upright clipboard fills roughly 70 percent of canvas height, all outer edges inside frame with clean transparent margin. Single object only.
+Constraints: no button background or cream panel around icon, no card, outer frame, UI, text, letters, numbers, glyphs, labels, counters, speech bubbles, scenery, animals, characters, logos or watermark. Green checkmark and two green short strokes are the only page marks. TRUE alpha transparency around object, no solid backdrop, no checkerboard pixels.
+

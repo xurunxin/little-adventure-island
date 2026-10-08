@@ -1,0 +1,9 @@
+Built-in image_gen generation. References: app/public/assets/tasks/wash-hands.png, app/design/selected-home.png.
+Original output: generated-images/01a11bac-8207-7d53-a6a1-52492543fd48/exec-485fff62-7315-468b-8b6d-a090dc370b57.png
+Final asset: app/public/assets/tasks/towel.png (640 x 640; high-quality bicubic size normalization; no crop)
+
+Use case: illustration-story
+Asset type: standalone opaque square task illustration for a preschool Android app, desired final size 640 by 640 pixels.
+Input images: wash-hands.png is same-child identity, bathroom, blue shirt and rendering reference; selected-home.png is overall style reference. Do not reproduce app UI.
+Primary request: one complete square illustration of the same cheerful round-faced 4.5-year-old Chinese boy with tousled brown hair, blue short-sleeve shirt with white cuffs and blue trousers. With both hands he is neatly hanging his small blue towel back on a LOW child-height towel rail in a warm cream-white bathroom. Both hands hold the towel's upper edge over the rail and the lower part of the towel hangs straight and tidy. The towel-putting-away action should be clear and prominent. Show boy from head to hips, side three-quarter view, face smiling, hands and towel central. A nearby low sink can be a background hint, keep bathroom simple and cozy with gentle daylight. Match the references' warm dimensional children's picture-book style, soft tactile hand-painted textures, rounded forms, pale cream and blue colors.
+Constraints: one full square opaque finished illustration, no card frame, no border, no rounded crop, no text, no labels, no buttons, no star symbols, no UI, no screenshot, no collage, no extra people. Same child identity and age.

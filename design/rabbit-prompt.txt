@@ -1,0 +1,18 @@
+Mode: built-in image_gen
+Source file: generated-images/01a11bac-4c21-7351-80db-45c0b101f5fb/exec-9c77425e-0973-4691-a8a5-a87ab7d67052.png
+Reference files: public/assets/pets/fox.png; design/selected-home.png
+Destination: public/assets/pets/rabbit.png
+Transparent background: true
+Result: 1161 x 1355 RGBA; original generated alpha preserved. Visible bbox at alpha > 100: (152, 44, 1129, 1334); character visual height 95 percent, not requested 80 percent. Full ears and tail preserved.
+
+Final prompt:
+Use case: stylized-concept
+Asset type: a single transparent white rabbit animal companion cutout for a preschool Android tablet app.
+Input image 1: public/assets/pets/fox.png is the art style, companion proportions, portrait canvas and foot baseline reference. Input image 2: design/selected-home.png is the soft dimensional children's picture-book world reference.
+Primary request: one adorable rounded white bunny companion, sitting upright, mostly frontal with a slight three-quarter angle, both eyes open with a warm friendly smile. Long plush ears with soft pale-pink interiors, big gentle dark brown eyes, tiny rose-pink nose, round cream-white cheeks, soft rounded paws, small complete fluffy tail visible at the bunny's right.
+Costume: mint-green triangular scarf around the neck with small white leaf patterns, a simple side knot, consistent with the fox companion.
+Style: match the fox reference's polished soft fluffy fur, warm soft daylight, dimensional plush children's storybook look, charming toddler-friendly silhouette, finely textured fur and smooth painted shading.
+Composition: portrait canvas 1161x1355 pixels, complete full body and both ears visible. Character occupies about 80 percent of the canvas height with useful transparent margins. Feet should sit near the same bottom baseline as the fox, around y=1300, with the ears safely below the top edge. Keep the body centered and tail fully visible.
+Background: genuinely transparent alpha. No ground, no ground shadow, no props, no scenery, no UI, no text, no speech bubble, no watermark.
+Constraints: exactly one white rabbit, independent cutout, no sprite sheet, no duplicates. The scarf is the only accessory.
+

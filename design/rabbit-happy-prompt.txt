@@ -1,0 +1,17 @@
+Mode: built-in image_gen
+Source file: generated-images/01a11bac-4c21-7351-80db-45c0b101f5fb/exec-69dbebc0-435c-45fb-9a61-5ded14ce1d20.png
+Edit reference: public/assets/pets/rabbit.png
+Destination: public/assets/pets/rabbit-happy.png
+Transparent background: true
+Result: 1161 x 1355 RGBA; original generated alpha preserved. Visible bbox at alpha > 100: (150, 41, 1133, 1335).
+
+Final prompt:
+Use case: precise-object-edit
+Asset type: transparent happy-state white rabbit companion for a preschool Android tablet app.
+Input image: public/assets/pets/rabbit.png is the edit target and character identity reference.
+Primary request: change only the rabbit's expression to joyous celebration: both eyes closed in curved happy crescent smiles, an open mouth with a cheerful laugh, and one front paw raised gently beside its cheek in celebration. Keep the seated pose.
+Invariants: preserve the exact white rabbit identity, long ears with pink interiors (one gently bending ear), small pink nose, cream-white fur, round cheeks, little front teeth, head/body proportions, complete fluffy short tail to its right, soft dimensional storybook fur texture, warm light and original portrait framing. Preserve the mint-green triangular scarf with white leaf patterns and side knot unchanged.
+Composition: match the original 1161x1355 portrait canvas and character size. Both ears, feet and tail entirely visible, with the same foot baseline.
+Background: genuinely transparent alpha. No ground, ground shadow, scenery, props, confetti, UI, text, speech bubble or watermark.
+Constraints: one independent rabbit, no sprite sheet or duplicates. Only change facial expression and single front paw gesture; keep everything else unchanged.
+

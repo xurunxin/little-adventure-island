@@ -1,0 +1,18 @@
+Built-in image_gen generated transparent three-balloon growth-decoration sprite.
+Reference: design/selected-home.png
+Source: generated-images/01a11bac-1388-7d50-97ab-60662472cc6c/exec-f136cad2-409f-49bb-a326-a19e431f9079.png
+Destination: public/assets/decor/balloon.png
+Native source: 1254x1254 RGBA
+Final asset: 512x512 RGBA, high-quality bicubic resize preserving alpha via System.Drawing as explicitly requested.
+Visual QA: Exactly three plump red, yellow and blue balloons with strings tied to a small rounded wooden stake. Soft painted satin and wood materials, full silhouette visible. No text, UI or backdrop. True transparency outside sprite.
+
+Final prompt:
+Use case: illustration-story
+Asset type: transparent garden-growth decoration sprite for a preschool storybook adventure-island app, final asset 512x512.
+Input images: Image 1 is selected warm dimensional picture-book style reference. Match its soft rounded forms, gentle colors and hand-painted natural materials.
+Primary request: ONE cheerful group of EXACTLY THREE plump rounded balloons, one warm red, one buttery yellow, one sky blue, floating together with their three thin gently curved strings tied to a single short rounded wooden stake. Red balloon at left, yellow at upper centre, blue at right, each clearly distinct with mild overlap. Small wooden stake at lower centre has rounded top and softly tapered bottom, child-friendly shape. No ground platform.
+Style/medium: warm dimensional children's storybook illustration, subtle soft hand-painted texture on balloons, gentle satin highlights, tactile tan wood, pastel red yellow blue, friendly rounded silhouettes.
+Composition/framing: square sprite canvas, balloons clustered upper half, strings converge down centre to stake lower half, all balloons and stake comfortably inside frame with transparent margin, frontal view and clean silhouette.
+Lighting/mood: soft sunny daylight, calm cheerful home decoration, no intense glow.
+Constraints: exactly three balloons, three strings, one wood stake. No faces, eyes, mouth, letters, numbers, symbols, text, UI, buttons, card frame, characters, surrounding scene, grass platform, logos or watermark. TRUE alpha transparency outside objects, no white or coloured backdrop, ground or checkerboard pixels.
+

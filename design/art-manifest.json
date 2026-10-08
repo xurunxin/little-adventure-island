@@ -1,0 +1,482 @@
+[
+  {
+    "source": "cloud.png",
+    "runtime": "cloud.webp",
+    "width": 640,
+    "height": 427,
+    "bytes": 18124,
+    "alpha": true
+  },
+  {
+    "source": "decor/bag.png",
+    "runtime": "decor/bag.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 71846,
+    "alpha": true
+  },
+  {
+    "source": "decor/balloon.png",
+    "runtime": "decor/balloon.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 29180,
+    "alpha": true
+  },
+  {
+    "source": "decor/books.png",
+    "runtime": "decor/books.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 48582,
+    "alpha": true
+  },
+  {
+    "source": "decor/bunting.png",
+    "runtime": "decor/bunting.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 34244,
+    "alpha": true
+  },
+  {
+    "source": "decor/crown.png",
+    "runtime": "decor/crown.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 33392,
+    "alpha": true
+  },
+  {
+    "source": "decor/flower.png",
+    "runtime": "decor/flower.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 38048,
+    "alpha": true
+  },
+  {
+    "source": "decor/hat.png",
+    "runtime": "decor/hat.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 45514,
+    "alpha": true
+  },
+  {
+    "source": "decor/lamp.png",
+    "runtime": "decor/lamp.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 45672,
+    "alpha": true
+  },
+  {
+    "source": "decor/picnic.png",
+    "runtime": "decor/picnic.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 43156,
+    "alpha": true
+  },
+  {
+    "source": "decor/scarf.png",
+    "runtime": "decor/scarf.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 31346,
+    "alpha": true
+  },
+  {
+    "source": "gift-open.png",
+    "runtime": "gift-open.webp",
+    "width": 640,
+    "height": 640,
+    "bytes": 77522,
+    "alpha": true
+  },
+  {
+    "source": "island.png",
+    "runtime": "island.webp",
+    "width": 1586,
+    "height": 992,
+    "bytes": 306070,
+    "alpha": false
+  },
+  {
+    "source": "leaves.png",
+    "runtime": "leaves.webp",
+    "width": 512,
+    "height": 512,
+    "bytes": 39050,
+    "alpha": true
+  },
+  {
+    "source": "nav-island.png",
+    "runtime": "nav-island.webp",
+    "width": 640,
+    "height": 566,
+    "bytes": 101756,
+    "alpha": true
+  },
+  {
+    "source": "nav-rewards.png",
+    "runtime": "nav-rewards.webp",
+    "width": 640,
+    "height": 600,
+    "bytes": 61442,
+    "alpha": true
+  },
+  {
+    "source": "nav-tasks.png",
+    "runtime": "nav-tasks.webp",
+    "width": 503,
+    "height": 640,
+    "bytes": 48246,
+    "alpha": true
+  },
+  {
+    "source": "pets/bear-happy.png",
+    "runtime": "pets/bear-happy.webp",
+    "width": 658,
+    "height": 768,
+    "bytes": 110426,
+    "alpha": true
+  },
+  {
+    "source": "pets/bear-icon.png",
+    "runtime": "pets/bear-icon.webp",
+    "width": 256,
+    "height": 256,
+    "bytes": 24244,
+    "alpha": true
+  },
+  {
+    "source": "pets/bear.png",
+    "runtime": "pets/bear.webp",
+    "width": 658,
+    "height": 768,
+    "bytes": 134216,
+    "alpha": true
+  },
+  {
+    "source": "pets/fox-happy.png",
+    "runtime": "pets/fox-happy.webp",
+    "width": 658,
+    "height": 768,
+    "bytes": 110780,
+    "alpha": true
+  },
+  {
+    "source": "pets/fox-icon.png",
+    "runtime": "pets/fox-icon.webp",
+    "width": 256,
+    "height": 256,
+    "bytes": 23512,
+    "alpha": true
+  },
+  {
+    "source": "pets/fox.png",
+    "runtime": "pets/fox.webp",
+    "width": 658,
+    "height": 768,
+    "bytes": 135680,
+    "alpha": true
+  },
+  {
+    "source": "pets/rabbit-happy.png",
+    "runtime": "pets/rabbit-happy.webp",
+    "width": 658,
+    "height": 768,
+    "bytes": 73666,
+    "alpha": true
+  },
+  {
+    "source": "pets/rabbit-icon.png",
+    "runtime": "pets/rabbit-icon.webp",
+    "width": 256,
+    "height": 256,
+    "bytes": 16782,
+    "alpha": true
+  },
+  {
+    "source": "pets/rabbit.png",
+    "runtime": "pets/rabbit.webp",
+    "width": 658,
+    "height": 768,
+    "bytes": 94722,
+    "alpha": true
+  },
+  {
+    "source": "rewards/activity.png",
+    "runtime": "rewards/activity.webp",
+    "width": 640,
+    "height": 640,
+    "bytes": 89756,
+    "alpha": false
+  },
+  {
+    "source": "rewards/new-book.png",
+    "runtime": "rewards/new-book.webp",
+    "width": 640,
+    "height": 640,
+    "bytes": 104344,
+    "alpha": false
+  },
+  {
+    "source": "rewards/picnic.png",
+    "runtime": "rewards/picnic.webp",
+    "width": 640,
+    "height": 640,
+    "bytes": 105576,
+    "alpha": false
+  },
+  {
+    "source": "rewards/stickers.png",
+    "runtime": "rewards/stickers.webp",
+    "width": 640,
+    "height": 640,
+    "bytes": 64396,
+    "alpha": false
+  },
+  {
+    "source": "rewards/toy.png",
+    "runtime": "rewards/toy.webp",
+    "width": 640,
+    "height": 640,
+    "bytes": 70288,
+    "alpha": true
+  },
+  {
+    "source": "star.png",
+    "runtime": "star.webp",
+    "width": 640,
+    "height": 640,
+    "bytes": 33420,
+    "alpha": true
+  },
+  {
+    "source": "storybook.png",
+    "runtime": "storybook.webp",
+    "width": 1548,
+    "height": 1016,
+    "bytes": 117822,
+    "alpha": true
+  },
+  {
+    "source": "tasks/bag.png",
+    "runtime": "tasks/bag.webp",
+    "width": 640,
+    "height": 640,
+    "bytes": 97278,
+    "alpha": false
+  },
+  {
+    "source": "tasks/ball.png",
+    "runtime": "tasks/ball.webp",
+    "width": 640,
+    "height": 640,
+    "bytes": 109760,
+    "alpha": true
+  },
+  {
+    "source": "tasks/books.png",
+    "runtime": "tasks/books.webp",
+    "width": 640,
+    "height": 640,
+    "bytes": 82816,
+    "alpha": true
+  },
+  {
+    "source": "tasks/brush-morning.png",
+    "runtime": "tasks/brush-morning.webp",
+    "width": 640,
+    "height": 640,
+    "bytes": 65296,
+    "alpha": true
+  },
+  {
+    "source": "tasks/brush-night.png",
+    "runtime": "tasks/brush-night.webp",
+    "width": 640,
+    "height": 640,
+    "bytes": 77910,
+    "alpha": true
+  },
+  {
+    "source": "tasks/colors.png",
+    "runtime": "tasks/colors.webp",
+    "width": 640,
+    "height": 640,
+    "bytes": 68160,
+    "alpha": false
+  },
+  {
+    "source": "tasks/draw.png",
+    "runtime": "tasks/draw.webp",
+    "width": 640,
+    "height": 640,
+    "bytes": 82712,
+    "alpha": true
+  },
+  {
+    "source": "tasks/laundry.png",
+    "runtime": "tasks/laundry.webp",
+    "width": 640,
+    "height": 640,
+    "bytes": 87170,
+    "alpha": true
+  },
+  {
+    "source": "tasks/napkins.png",
+    "runtime": "tasks/napkins.webp",
+    "width": 640,
+    "height": 640,
+    "bytes": 78184,
+    "alpha": false
+  },
+  {
+    "source": "tasks/outdoors.png",
+    "runtime": "tasks/outdoors.webp",
+    "width": 640,
+    "height": 640,
+    "bytes": 109322,
+    "alpha": true
+  },
+  {
+    "source": "tasks/pencils.png",
+    "runtime": "tasks/pencils.webp",
+    "width": 640,
+    "height": 640,
+    "bytes": 71066,
+    "alpha": false
+  },
+  {
+    "source": "tasks/puzzle.png",
+    "runtime": "tasks/puzzle.webp",
+    "width": 640,
+    "height": 640,
+    "bytes": 91382,
+    "alpha": true
+  },
+  {
+    "source": "tasks/read.png",
+    "runtime": "tasks/read.webp",
+    "width": 640,
+    "height": 640,
+    "bytes": 91274,
+    "alpha": false
+  },
+  {
+    "source": "tasks/sort-blocks.png",
+    "runtime": "tasks/sort-blocks.webp",
+    "width": 640,
+    "height": 640,
+    "bytes": 80720,
+    "alpha": true
+  },
+  {
+    "source": "tasks/sports.png",
+    "runtime": "tasks/sports.webp",
+    "width": 640,
+    "height": 640,
+    "bytes": 93882,
+    "alpha": false
+  },
+  {
+    "source": "tasks/story.png",
+    "runtime": "tasks/story.webp",
+    "width": 640,
+    "height": 640,
+    "bytes": 109120,
+    "alpha": true
+  },
+  {
+    "source": "tasks/stretch.png",
+    "runtime": "tasks/stretch.webp",
+    "width": 640,
+    "height": 640,
+    "bytes": 128498,
+    "alpha": true
+  },
+  {
+    "source": "tasks/tidy-shoes.png",
+    "runtime": "tasks/tidy-shoes.webp",
+    "width": 640,
+    "height": 640,
+    "bytes": 75906,
+    "alpha": false
+  },
+  {
+    "source": "tasks/tidy-toys.png",
+    "runtime": "tasks/tidy-toys.webp",
+    "width": 640,
+    "height": 640,
+    "bytes": 71778,
+    "alpha": true
+  },
+  {
+    "source": "tasks/towel.png",
+    "runtime": "tasks/towel.webp",
+    "width": 640,
+    "height": 640,
+    "bytes": 79778,
+    "alpha": true
+  },
+  {
+    "source": "tasks/wash-hands.png",
+    "runtime": "tasks/wash-hands.webp",
+    "width": 640,
+    "height": 640,
+    "bytes": 71624,
+    "alpha": true
+  },
+  {
+    "source": "tasks/water.png",
+    "runtime": "tasks/water.webp",
+    "width": 640,
+    "height": 640,
+    "bytes": 110730,
+    "alpha": true
+  },
+  {
+    "source": "tasks/wear-shoes.png",
+    "runtime": "tasks/wear-shoes.webp",
+    "width": 640,
+    "height": 640,
+    "bytes": 80308,
+    "alpha": false
+  },
+  {
+    "source": "tasks/wipe-table.png",
+    "runtime": "tasks/wipe-table.webp",
+    "width": 640,
+    "height": 640,
+    "bytes": 70994,
+    "alpha": true
+  },
+  {
+    "source": "title.png",
+    "runtime": "title.webp",
+    "width": 1600,
+    "height": 379,
+    "bytes": 113054,
+    "alpha": true
+  },
+  {
+    "source": "rewards/mystery-gift.png",
+    "runtime": "rewards/mystery-gift.webp",
+    "width": 640,
+    "height": 640,
+    "bytes": 102790,
+    "alpha": true
+  },
+  {
+    "source": "tasks/read-alone.png",
+    "runtime": "tasks/read-alone.webp",
+    "width": 640,
+    "height": 640,
+    "bytes": 106888,
+    "alpha": false
+  }
+]
